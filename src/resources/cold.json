@@ -1,0 +1,68 @@
+{
+  "gelure_steps": [
+    {
+      "name": "Degré 1",
+      "signs": [
+        {
+          "sign": "Lésion grise ou cyanosées disparaissant après réchauffement rapide"
+        }
+      ],
+      "description": "",
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://www.secours-montagne.fr/IMG/pdf/Les_gelures_2012.pdf",
+          "description": "Secours-montagnes.fr : Les gelures 2012"
+        }
+      ]
+    },
+    {
+      "name": "Degré 2",
+      "signs": [
+        {
+          "sign": "Lésion grise ou cyanosée persistant sur la phalange distale malgré le réchauffement rapide"
+        }
+      ],
+      "description": "",
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://www.secours-montagne.fr/IMG/pdf/Les_gelures_2012.pdf",
+          "description": "Secours-montagnes.fr : Les gelures 2012"
+        }
+      ]
+    },
+    {
+      "name": "Degré 3",
+      "signs": [
+        {
+          "sign": "Lésion grise ou cyanosée persistant sur la phalange intermédiaire (et) proximale malgré le réchauffement rapide"
+        }
+      ],
+      "description": "",
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://www.secours-montagne.fr/IMG/pdf/Les_gelures_2012.pdf",
+          "description": "Secours-montagnes.fr : Les gelures 2012"
+        }
+      ]
+    },
+    {
+      "name": "Degré 4",
+      "signs": [
+        {
+          "sign": "Lésion grise ou cyanosée persistant en amont de l’articulation métacarpo/tarso phalangienne malgré le réchauffement rapide"
+        }
+      ],
+      "description": "",
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://www.secours-montagne.fr/IMG/pdf/Les_gelures_2012.pdf",
+          "description": "Secours-montagnes.fr : Les gelures 2012"
+        }
+      ]
+    }
+  ]
+}

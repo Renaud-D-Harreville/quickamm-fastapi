@@ -1,0 +1,157 @@
+{
+  "mcq_models": [
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Le permis de chasse :",
+      "answers": [
+        {
+          "text": "Peut être passé à partir de 16 ans révolu",
+          "is_true": true,
+          "explanation": "Le permis de chasse est accessible dès 16 ans révolus, âge minimum légal pour commencer cette activité."
+        },
+        {
+          "text": "Est obligatoire pour chasser sur un territoire",
+          "is_true": true,
+          "explanation": "La possession d'un permis valide est une exigence légale pour toute activité de chasse en France."
+        },
+        {
+          "text": "Doit être couplé à une assurance pour pouvoir chasser",
+          "is_true": true,
+          "explanation": "Une assurance est obligatoire pour couvrir les risques liés à l'activité de chasse."
+        },
+        {
+          "text": "N'est pas obligatoire pour chasser à l'arc",
+          "is_true": false,
+          "explanation": "Le permis de chasse est requis quelle que soit la méthode utilisée, y compris la chasse à l'arc."
+        },
+        {
+          "text": "Ne peut pas être passé avant 18 ans révolu",
+          "is_true": false,
+          "explanation": "Le permis peut être obtenu dès 16 ans, et non 18 ans."
+        },
+        {
+          "text": "Donne automatiquement droit à chasser le chamois",
+          "is_true": false,
+          "explanation": "Le permis de chasse ne garantit pas l'autorisation de chasser toutes les espèces, certaines nécessitant des autorisations spécifiques."
+        },
+        {
+          "text": "Permet de chasser toutes les espèces de montagne",
+          "is_true": false,
+          "explanation": "Certaines espèces de montagne sont protégées ou nécessitent des plans de gestion spécifiques pour être chassées légalement."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Qu’est-ce qu’une ACCA ?",
+      "answers": [
+        {
+          "text": "Une Association Communale de Chasse Agréée",
+          "is_true": true,
+          "explanation": "Une ACCA est une organisation regroupant des chasseurs au niveau communal pour gérer durablement les ressources cynégétiques."
+        },
+        {
+          "text": "Une Association Communautaire de Chasse Autorisée",
+          "is_true": false,
+          "explanation": "Ce terme est incorrect ; ACCA signifie Association Communale de Chasse Agréée."
+        },
+        {
+          "text": "Une Association Cantonale de Chasse Agricole",
+          "is_true": false,
+          "explanation": "Une ACCA ne concerne pas spécifiquement les chasseurs agricoles ou cantonaux, mais les chasseurs communaux."
+        },
+        {
+          "text": "Une Association Coopérative de Chasse Amicale",
+          "is_true": false,
+          "explanation": "Une ACCA n'est pas basée sur un concept de chasse amicale, mais sur une gestion réglementée et durable au niveau communal."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Je suis une espèce protégée :",
+      "answers": [
+        {
+          "text": "Écureuil",
+          "is_true": true,
+          "explanation": "L'écureuil fait partie des espèces protégées en raison de sa vulnérabilité et de son rôle dans les écosystèmes forestiers."
+        },
+        {
+          "text": "Ours",
+          "is_true": true,
+          "explanation": "L'ours est une espèce protégée en France, notamment le plantigrade des Pyrénées, pour préserver ses populations menacées."
+        },
+        {
+          "text": "Vautour",
+          "is_true": true,
+          "explanation": "Les vautours sont protégés pour leur rôle écologique crucial en tant que charognards naturels."
+        },
+        {
+          "text": "Loutre",
+          "is_true": true,
+          "explanation": "La loutre est protégée en raison de la dégradation de ses habitats aquatiques et de son statut vulnérable."
+        },
+        {
+          "text": "Sanglier",
+          "is_true": false,
+          "explanation": "Le sanglier n'est pas protégé et est souvent chassé en France pour réguler sa population."
+        },
+        {
+          "text": "Chamois",
+          "is_true": false,
+          "explanation": "Le chamois n'est pas protégé et sa chasse est autorisée sous certaines régulations spécifiques."
+        },
+        {
+          "text": "Cerf",
+          "is_true": false,
+          "explanation": "Le cerf n'est pas une espèce protégée et est souvent chassé dans le cadre de la gestion des populations."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    }
+  ]
+}

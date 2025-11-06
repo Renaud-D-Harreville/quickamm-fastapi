@@ -1,0 +1,257 @@
+{
+  "flowers": [
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Anémone",
+      "images_name": [
+        "485px-Anemone_sylvestris_flower_110503.jpeg",
+        "360px-Hakusanitige.jpeg",
+        "anémone-150x150.png"
+      ],
+      "description": "Plante vivace (vit plusieurs années). C'est une espèce protégée en France, où elle résiste mal à la concurrence et à la disparition de son milieu car elle est dans ce pays en limite de son aire de répartition"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Aster",
+      "images_name": [
+        "aster-150x150.png",
+        "640px-Aster_Amellus.jpeg",
+        "640px-AsterNovi-belgii-flower-1mb.jpeg"
+      ],
+      "description": "Plantes vivaces (pouvant vivre plusieurs années. Elle subsiste l'hiver sous forme d'organes spécialisés souterrains protégés du froid et chargés en réserve (racines, bulbes, rhizomes).) à floraison automnale"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Campanule",
+      "images_name": [
+        "campanule-150x150.png",
+        "472px-Campanula_patula_bgiu.jpeg",
+        "640px-Campanula_alpestris_002.jpeg",
+        "640px-Campanula_alpestris_1.jpeg"
+      ],
+      "description": "Leurs fleurs — bleues, violettes ou blanches — sont hermaphrodites (présente à la fois des organes mâles et femelles, soit simultanément, soit alternativement). Le calice présente cinq dents, souvent assez étroites. La corolle, en cloche, s'ouvre en cinq lobes. Cinq étamines. Ovaire infère."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Edelweiss",
+      "images_name": [
+        "edelweiss-150x150.png",
+        "640px-5675_-_Schynige_Platte_-_Leontopodium_alpinum.jpeg",
+        "810px-LeontopodiumAlpinum-1.jpeg"
+      ],
+      "description": "Feuilles et fleurs feutrées de poils blancs laineux"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Fougère",
+      "images_name": [
+        "640px-Athyrium_filix-femina0.jpeg",
+        "Dryopteris.filix-mas.jpeg",
+        "640px-Fern_leaves.jpeg"
+      ],
+      "description": "Se reproduisent grâce à des spores."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Grande gentiane jaune",
+      "images_name": [
+        "423px-Illustration_Gentiana_lutea0_clean.jpeg",
+        "480px-Gentiane_jaune.jpeg",
+        "Gentiana_lutea-2.jpeg"
+      ],
+      "description": "Grande herbe robuste et vivace, elle peut vivre 50 ans et met 10 ans pour fleurir la première fois. Les feuilles sont opposées et nervurées."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Gentiane acaule",
+      "images_name": [
+        "gentiane-acaule-150x150.png",
+        "gentiane-acaule.jpg",
+        "480px-Gentiana_acaulis_L_ag1.jpeg",
+        "640px-Gentiane_Koch_DSCN2921.jpeg",
+        "614px-Gentiana_acaulis_(stemless_gentian).jpeg"
+      ],
+      "description": "Plante calcicole (plante qui se rencontre exclusivement ou préférentiellement sur les sols riches en calcium et ne supporte pas les terrains acides) souvent confondue avec la Gentiane de Koch (qui elle, est calcifuge)."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Génépi",
+      "images_name": [
+        "395px-Artemisia_spicata_Atlas_Alpenflora.jpeg",
+        "640px-Artemisia_eriantha.jpeg"
+      ],
+      "description": "La plante se trouve en particulier sur les moraines et autres monticules de pierres en montagne, et pousse majoritairement entre 2 500 et 3 200 mètres d'altitude."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Lys (ou Lis)",
+      "images_name": [
+        "lys-150x150.png",
+        "Lys-lilium.jpg",
+        "517px-Lilium_longiflorum.jpeg"
+      ],
+      "description": "Les espèces du genre Lilium poussent généralement dans les zones humides des milieux forestiers, souvent montagneux, ou plus rarement dans les milieux dégagés (prairies). Quelques-unes poussent dans les zones marécageuses. Leurs grandes fleurs à six tépales (trois pétales et trois sépales identiques), souvent parfumées, peuvent arborer des couleurs vives, blanches, jaunes ou rouges, avec parfois des motifs colorés. "
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 1,
+      "name": "Mousses",
+      "images_name": [
+        "mousses-150x150.png",
+        "640px-Moss.jpeg"
+      ],
+      "description": "Dépourvues de racines et de lignine, leurs rhizoïdes permettent l'ancrage au substrat"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Orchidée",
+      "images_name": [
+        "orchidée-150x150.png",
+        "719px-PhalaenopsisOphrysPaphiopedilumMaxillaria.jpeg",
+        "970px-Orchidaceae_various.jpeg"
+      ],
+      "description": "Les orchidées ont notamment développé des caractéristiques rendant cette famille de plantes très économe en ressources : réduction du nombre d'étamines, symbiose avec un champignon, métabolisme de type CAM, etc. Leurs graines sont souvent minuscules. "
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Prèle",
+      "images_name": [
+        "540px-Equisetum_telmateia1.jpeg",
+        "prele-800-768x768.jpg"
+      ],
+      "description": "La forte teneur en silice des tiges de prêle est connue depuis longtemps, des artisans l'utilisent pour des travaux de ponçage et d'affûtage. "
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Renoncule",
+      "images_name": [
+        "614px-Illustration_Ranunculus_arvensis0.jpeg",
+        "640px-Ranunculus_macro.jpeg",
+        "950px-Atlas_roslin_pl_Jaskier_alpejski_304_8604.jpeg",
+        "640px-Bouton-d'Or_Oceano_Haïligo.jpeg"
+      ],
+      "description": "Renoncule, ou bouton d'or sont des plantes herbacées, annuelles ou vivaces"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Epicéa",
+      "images_name": [
+        "1024px-Illustration_Picea_abies0_clean.jpg",
+        "Picea_abies_male_flower.JPG",
+        "Picea_abies1.jpg"
+      ],
+      "description": "L'espèce est monoïque : les cônes mâles et les cônes femelles sont distincts, mais tous deux présents sur chaque individu. les aiguilles de l'épicéa commun n'ont qu'une seule pointe à leur extrémité, tandis que le sapin blanc en arbore deux. Cette différence peut être vérifiée à l'œil nu, et surtout au toucher : l'épicéa commun pique, pas le sapin blanc. De plus, les aiguilles de l'épicéa commun poussent tout autour des rameaux, en brosse, tandis que sur les rameaux stériles du sapin blanc elles poussent dans un même plan, en peigne. Un autre moyen pour les distinguer est l'orientation des cônes : ceux des épicéas descendent, alors que ceux du sapin blanc montent."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Sapin",
+      "images_name": [
+        "1920px-Abies_koreana_(szyszki).JPG",
+        "aa74f3c964_50144149_11811-sapin-blanc.jpg"
+      ],
+      "description": "Ce sont des arbres monoïques. On peut les distinguer des épicéas, notamment grâce à leurs épines, aillant des \"traces de skis\"."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Pin",
+      "images_name": [
+        "Pine_cones,_male_and_female.jpg",
+        "Pinus_benthamiana_cone.jpg",
+        "pin-sylvestre.jpg"
+      ],
+      "description": "Ce sont des résineux à feuilles en aiguilles groupées en faisceaux par 2, 3 ou 5 (vraiment pas très utile, mais bon..)"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 1,
+      "name": "Mélèze",
+      "images_name": [
+        "Aiguilles_de_Mélèze.jpg",
+        "Fruit_du_Mélèze.jpg"
+      ],
+      "description": "Ils atteignent facilement 20-45 mètres de haut. Le mélèze perd ses aiguilles en automne et en hiver."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Hêtre",
+      "images_name": [
+        "Fagus_sylvatica_-_Köhler–s_Medizinal-Pflanzen-060.jpg",
+        "800px-Fagus_-_Mattioli,_Pietro_Andrea.jpg",
+        "Fagus_sylvatica_leaf_001.jpg",
+        "Buchecker.jpg"
+      ],
+      "description": "Parfois à l'étage montagnard, pratiquement jamais à l'étage collinéen. Les feuilles alternes sont entières et simples. La surface du tronc est régulière, contrairement au Charme (Carpinus betulus) dont l'écorce est également lisse mais la surface cannelée. Elle devient légèrement rugueuse (présence de petites fissures) à la base du tronc chez les vieux sujets."
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Erable",
+      "images_name": [
+        "Maple_leaves.jpg",
+        "VineMaple_7518t.jpg",
+        "Maple_seed_pods_Fcb981.JPG"
+      ],
+      "description": "Feuilles opposées"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Frêne",
+      "images_name": [
+        "Fraxinus_ornus_-_Köhler–s_Medizinal-Pflanzen-062.jpg",
+        "EurAshSeeds.jpg",
+        "frene-commun-2.jpg",
+        "frene-commun-3.jpg"
+      ],
+      "description": "Caractérisées par des feuilles composées pennées, elles sont reconnaissables à leurs grappes de samares simples surnommées localement « langues d'oiseau ». "
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Sorbier",
+      "images_name": [
+        "1024px-Illustration_Sorbus_aucuparia0.jpg",
+        "Sorbier1.jpg",
+        "Rowan_with_flowers_and_fruit_in_Siberia.jpg"
+      ],
+      "description": "Les sorbiers et les alisiers (genre Sorbus) sont des arbustes ou des arbres qui croissent notamment dans les forêts collinéennes et montagnardes. Les sorbiers et les alisiers sont caractérisés par des fruits globuleux, rouge corail, orange ou brun, appréciés des oiseaux. "
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Aulnes (ou aunes)",
+      "images_name": [
+        "Alnus_glutinosa_tervaleppä_lehti.jpg",
+        "Alnus_glutinosa_female_inflorescence.JPG"
+      ],
+      "description": "Les aulnes sont des arbres de taille moyenne, pouvant atteindre 20 à (rarement) 30 mètres, à feuilles caduques, croissant dans les bois humides ou marécageux, ou encore en bord de cours d'eau. L'aulne le plus commun en Europe de l'Ouest, se distingue par ses feuilles largement ovales, crénelées-dentées,"
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "name": "Charme",
+      "images_name": [
+        "American_Hornbeam_Leaves_600.jpg",
+        "Haagbeuk_dubbelgezaagd_blad_Carpinus_betulus.jpg",
+        "Haagbeuk_met_vruchten.jpg"
+      ],
+      "description": "Espèce Monoique."
+    }
+  ]
+}

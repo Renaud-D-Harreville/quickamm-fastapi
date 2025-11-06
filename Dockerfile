@@ -7,10 +7,10 @@ RUN pip install -r requirements.txt
 # Mounts the application code to the image
 COPY . code
 WORKDIR /code
-RUN pip3 install -e .
+RUN pip3 install .
 
-EXPOSE 8000
+EXPOSE 80
 
 # runs the production server
-ENTRYPOINT ["python", "-m", "uvicorn"]
-CMD ["webapi.main:app", "--reload"]
+ENTRYPOINT ["uvicorn", "webapi.main:app"]
+CMD ["--host", "0.0.0.0", "--port", "80"]

@@ -1,0 +1,50 @@
+{
+    "topics": ["AMM"],
+    "question": "",
+    "answers": [
+        {
+            "text": "",
+            "is_true": true,
+            "explanation": ""
+        },
+        {
+            "text": "",
+            "is_true": false,
+            "explanation": ""
+        },
+      {
+            "text": "",
+            "is_true": true,
+            "explanation": ""
+        },
+        {
+            "text": "",
+            "is_true": false,
+            "explanation": ""
+        },
+      {
+            "text": "",
+            "is_true": true,
+            "explanation": ""
+        },
+        {
+            "text": "",
+            "is_true": false,
+            "explanation": ""
+        }
+    ],
+    "description": "",
+    "image_path": null,
+  "references": [
+        {
+            "reference_type": "url",
+            "url": "",
+            "description": ""
+        },
+        {
+            "reference_type": "url",
+            "url": "",
+            "description": ""
+        }
+    ]
+}

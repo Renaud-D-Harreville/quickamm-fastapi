@@ -1,0 +1,27 @@
+{
+  "db": {
+    "characteristics_dict_list": {
+      "Roche sédimentaire d'origine détritique": ["grès", "schiste argileux", "marne"],
+      "Roche issue de la sédimentation de grain de sables": ["grès"],
+      "Roche magmatique plutonique": ["granite"],
+      "Roche magmatique, issue d'une élévation lente de la poche de magma": ["granite"]
+    },
+    "topics": ["Geologie", "AMM"],
+    "rocks": [
+      {
+        "name": "grès",
+        "characteristics": [
+          "Roche sédimentaire d'origine détritique",
+          "Roche issue de la sédimentation de grain de sables"
+        ]
+      },
+      {
+        "name": "granite",
+        "characteristics": [
+          "Roche magmatique plutonique",
+          "Roche magmatique, issue d'une élévation lente de la poche de magma"
+        ]
+      }
+    ]
+  }
+}

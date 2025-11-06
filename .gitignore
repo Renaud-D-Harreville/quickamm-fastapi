@@ -1,5 +1,5 @@
-resources/
-src/resources/
+# resources/
+# src/resources/
 notebooks/
 **/db.sqlite3
 .idea/

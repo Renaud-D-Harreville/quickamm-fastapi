@@ -32,5 +32,5 @@ include-package-data = true
 where = ["src"]
 namespaces = true
 
-# 3. DELETE the entire [tool.setuptools.dynamic] section
-#    (It's no longer needed)
+[tool.setuptools.package-data]
+"resources" = ["**/*"]

@@ -1,0 +1,90 @@
+{
+  "mcq_models": [
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Meteorologie",
+        "Le milieu montagnard"
+      ],
+      "question": "Si l'altitude sur mon altimètre barométrique diminue, cela peut signifier que :",
+      "answers": [
+        {
+          "text": "La pression a augmenté",
+          "is_true": true,
+          "explanation": "Un altimètre barométrique mesure l'altitude en fonction de la pression atmosphérique, qui augmente à mesure que l'on descend en altitude."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de beau temps",
+          "is_true": true,
+          "explanation": "Une augmentation de la pression à altitude constante est généralement associée à l'arrivée de conditions météorologiques stables et ensoleillées."
+        },
+        {
+          "text": "Vous êtes descendus en altitude",
+          "is_true": true,
+          "explanation": "Lorsque vous descendez en altitude, la pression atmosphérique augmente, ce qui se traduit par une diminution indiquée sur l'altimètre barométrique."
+        },
+        {
+          "text": "La pression a diminué",
+          "is_true": false,
+          "explanation": "Une diminution de la pression correspondrait à une augmentation de l'altitude, ce qui est contraire à la situation décrite."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de mauvais temps",
+          "is_true": false,
+          "explanation": "Une pression qui diminue à altitude constante est souvent un signe de dégradation des conditions météorologiques."
+        },
+        {
+          "text": "Vous êtes montés en altitude",
+          "is_true": false,
+          "explanation": "Monter en altitude entraîne une diminution de la pression, ce qui n'est pas cohérent avec une altitude indiquée en baisse sur l'altimètre."
+        }
+      ],
+      "description": "L'altimètre barométrique prend en compte la pression de l'atmosphère afin de calculer l'altitude, de manière inversement proportionnelle. Cela signifie que si l'altitude sur le baromètre diminue, la pression augmente alors, et inversement.",
+      "image_path": null
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Meteorologie",
+        "Le milieu montagnard"
+      ],
+      "question": "Si l'altitude sur mon altimètre barométrique augmente, cela peut signifier que :",
+      "answers": [
+        {
+          "text": "La pression a diminué",
+          "is_true": true,
+          "explanation": "Une augmentation de l'altitude mesurée sur un altimètre barométrique est causée par une diminution de la pression atmosphérique."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de mauvais temps",
+          "is_true": true,
+          "explanation": "Une baisse de pression atmosphérique à altitude constante peut indiquer une dégradation des conditions météorologiques, souvent associée à une arrivée de mauvais temps."
+        },
+        {
+          "text": "Vous êtes montés en altitude",
+          "is_true": true,
+          "explanation": "Lorsque vous montez en altitude, la pression atmosphérique diminue, ce qui est mesuré par une augmentation sur l'altimètre barométrique."
+        },
+        {
+          "text": "La pression a augmenté",
+          "is_true": false,
+          "explanation": "Une augmentation de la pression correspondrait à une descente en altitude, ce qui est contraire à la situation décrite."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de beau temps",
+          "is_true": false,
+          "explanation": "Une augmentation de la pression à altitude constante serait associée à une amélioration des conditions météorologiques, ce qui n'est pas le cas ici."
+        },
+        {
+          "text": "Vous êtes descendus en altitude",
+          "is_true": false,
+          "explanation": "Descendre en altitude entraîne une augmentation de la pression, ce qui est contraire à la situation où l'altitude mesurée augmente."
+        }
+      ],
+      "description": "L'altimètre barométrique prend en compte la pression de l'atmosphère afin de calculer l'altitude, de manière inversement proportionnelle. Cela signifie que si l'altitude sur le baromètre diminue, la pression augmente alors, et inversement.",
+      "image_path": null
+    }
+  ]
+}

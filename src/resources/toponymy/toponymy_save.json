@@ -1,0 +1,317 @@
+{
+  "words": [
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 3,
+      "description": "",
+      "patois": [
+        "Balme",
+        "Baume",
+        "Barme",
+        "Balmette"
+      ],
+      "traductions": [
+        "Caverne",
+        "abri sous roche"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 3,
+      "description": "",
+      "patois": [
+        "Chaux",
+        "Chau",
+        "Chalp",
+        "Chaup",
+        "Chaume"
+      ],
+      "traductions": [
+        "Hauteur dénudée",
+        "plateau rocheux"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 4,
+      "description": "",
+      "patois": [
+        "Echaillon",
+        "Eychaillon",
+        "Esseillon"
+      ],
+      "traductions": [
+        "Escalier",
+        "pente en gradin",
+        "pente d'accès difficile"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 4,
+      "description": "",
+      "patois": [
+        "Lau",
+        "Laus",
+        "Lauset",
+        "Lauzet"
+      ],
+      "traductions": [
+        "Lac",
+        "petite étendue d'eau"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 6,
+      "description": "",
+      "patois": [
+        "Joux",
+        "Lajoux",
+        "Mijoux",
+        "Jora",
+        "Jura"
+      ],
+      "traductions": [
+        "Zone boisée"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 5,
+      "description": "",
+      "patois": [
+        "Doron",
+        "Dora",
+        "Doire",
+        "Dranse",
+        "Durance",
+        "Douro"
+      ],
+      "traductions": [
+        "Eau courante",
+        "torrent"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 3,
+      "description": "",
+      "patois": [
+        "Aiga",
+        "Aie",
+        "Aigo",
+        "Aigalous",
+        "Aygo",
+        "Aygue"
+      ],
+      "traductions": [
+        "Eau"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 4,
+      "description": "",
+      "patois": [
+        "Alpe",
+        "Alpette",
+        "Alp",
+        "Aup",
+        "Arp"
+      ],
+      "traductions": [
+        "Pâturage de haute altitude"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 6,
+      "description": "",
+      "patois": [
+        "Bastide",
+        "Bâtie",
+        "Bastille"
+      ],
+      "traductions": [
+        "Maison forte"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 3,
+      "description": "",
+      "patois": [
+        "Moutier",
+        "Münster",
+        "Mouster"
+      ],
+      "traductions": [
+        "Monastère"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 4,
+      "description": "",
+      "patois": ["Pel", "Pellat", "Pilat", "Pelas", "Pela"],
+      "traductions": ["Terre pauvre", "Montagne", "rocher"]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 3,
+      "description": "",
+      "patois": [
+        "Pertuis",
+        "Pertus",
+        "Portell",
+        "Porta",
+        "Port",
+        "Portillon",
+        "Portalet",
+        "Portet"
+      ],
+      "traductions": [
+        "Ouverture",
+        "petit col",
+        "passage"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 5,
+      "description": "",
+      "patois": [
+        "Praille",
+        "Prat",
+        "Prado",
+        "Praele",
+        "Prarion",
+        "Pradelle"
+      ],
+      "traductions": [
+        "Prairie"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 5,
+      "description": "",
+      "patois": [
+        "Puy",
+        "Puyo",
+        "Puyou"
+      ],
+      "traductions": [
+        "Montée",
+        "colline",
+        "montagne"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 5,
+      "description": "",
+      "patois": [
+        "Ros",
+        "Rosière",
+        "Roseland",
+        "Roselend",
+        "Rosonnoi"
+      ],
+      "traductions": [
+        "Lieu humide",
+        "marais ou poussent les roseaux"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 6,
+      "description": "",
+      "patois": [
+        "Ru",
+        "Ruau",
+        "Ruisset",
+        "Ruisson"
+      ],
+      "traductions": [
+        "Ruisseau"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 4,
+      "description": "",
+      "patois": [
+        "Sagne",
+        "Saigne",
+        "Sagneiro",
+        "Sagerie",
+        "saignotte"
+      ],
+      "traductions": [
+        "Marais",
+        "Prairie marécageuse"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 5,
+      "description": "",
+      "patois": [
+        "Serre",
+        "Serra",
+        "Serret",
+        "Sierra"
+      ],
+      "traductions": [
+        "Hauteur",
+        "colline"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 4,
+      "description": "",
+      "patois": [
+        "Sourde",
+        "Sourgeon",
+        "Sourdron",
+        "Sourdille",
+        "Sourdanne"
+      ],
+      "traductions": [
+        "Source",
+        "terrain humide"
+      ]
+    },
+    {
+      "false_answer_count": 0,
+      "true_answer_count": 3,
+      "description": "",
+      "patois": [
+        "Vau",
+        "Vaux",
+        "Baleio",
+        "Baisse"
+      ],
+      "traductions": [
+        "Val",
+        "Vallée"
+      ]
+    },
+        {
+      "false_answer_count": 0,
+      "true_answer_count": 0,
+      "description": "",
+      "patois": [
+        "Greniers-forts",
+        "Burons",
+        "Orris"
+      ],
+      "traductions": [
+        "Petites construction en montagne fabriquées avec des matériaux locaux."
+      ]
+    }
+  ]
+}

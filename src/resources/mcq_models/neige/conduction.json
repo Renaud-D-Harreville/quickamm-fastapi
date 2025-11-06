@@ -1,0 +1,62 @@
+{
+  "mcq_models": [
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Milieu montagnard enneigé",
+        "Randonner en sécurité en milieu montagnard enneigé",
+        "Froid",
+        "Gelures",
+        "Conduction thermique"
+      ],
+      "question": "Qu'est-ce que la conduction thermique :",
+      "answers": [
+        {
+          "text": "Transfert de chaleur par contact direct",
+          "is_true": true,
+          "explanation": "La conduction thermique est la diffusion de l'énergie thermique au sein d'un matériau ou entre des matériaux en contact."
+        },
+        {
+          "text": "Transfert de chaleur par courants d'air",
+          "is_true": false,
+          "explanation": "Cela décrit la convection, pas la conduction."
+        },
+        {
+          "text": "Transfert de chaleur par ondes électromagnétiques",
+          "is_true": false,
+          "explanation": "Cela décrit le rayonnement, pas la conduction."
+        },
+        {
+          "text": "Mouvement de la chaleur dans le vide",
+          "is_true": false,
+          "explanation": "La chaleur ne peut pas être transférée par conduction dans le vide."
+        },
+        {
+          "text": "Peut se produire au contact entre la peau et de l'eau",
+          "is_true": true,
+          "explanation": "La conductivité seule de l'eau est 24 fois plus élevée que celle de l'eau, sans compter que l'eau est bien plus dense que l'air, ce qui fait que l'on se refroidit bien plus vite dans l'eau que dans l'air. "
+        },
+        {
+          "text": "Se produit uniquement dans les liquides",
+          "is_true": false,
+          "explanation": "La conduction thermique se produit dans les solides, les liquides et les gaz, mais elle est la plus efficace dans les solides."
+        }
+      ],
+      "description": "La conduction thermique est cruciale pour les randonneurs à comprendre, surtout lorsqu'il s'agit de choisir des matériaux pour les vêtements et l'équipement afin de gérer efficacement la chaleur corporelle. Comprendre cela aide à sélectionner le bon équipement pour différentes conditions météorologiques.",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://en.wikipedia.org/wiki/Thermal_conduction",
+          "description": "Page Wikipédia sur la conduction thermique"
+        },
+        {
+          "reference_type": "url",
+          "url": "https://www.youtube.com/watch?v=Ibj9VOcp06I&ab_channel=C%27estpassorcier",
+          "description": "Youtube - C'est pas sorcier : Résister au froid"
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-from pathlib import Path
+from importlib import resources
+resource_dir_path = resources.files("resources")
 
-resource_dir_path = Path(__file__).parent.parent.parent / "resources"
-# print("resources_dir_path : ", resource_dir_path, flush=True)
+print("resources_dir_path : ", resource_dir_path, flush=True)

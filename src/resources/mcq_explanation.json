@@ -1,0 +1,2068 @@
+{
+  "mcq_models": [
+    {
+      "topics": [
+        "AMM",
+        "La profession d’AMM, son environnement géographique, institutionnel et réglementaire",
+        "prérogatives",
+        "Prérogatives d'exercice des AMM en milieu enneigé",
+        "Milieu montagnard enneigé",
+        "Probatoire AMM"
+      ],
+      "question": "Quelles sont les prérogatives d'exercice d'un Accompagnateur en Moyenne Montagne (AMM) diplômé ayant validé l'option milieu montagnard enneigé ?",
+      "image_path": null,
+      "answers": [
+        {
+          "text": "Encadrer des randonnées en raquettes à neige sur des terrains vallonnés en moyenne montagne.",
+          "is_true": true,
+          "explanation": "Les AMM sont autorisés à encadrer des randonnées en raquettes à neige sur des terrains enneigés faciles, vallonnés, excluant tout accident de terrain important."
+        },
+        {
+          "text": "Conduire des groupes sur des itinéraires de ski de randonnées en haute montagne.",
+          "is_true": false,
+          "explanation": "Les AMM ne sont pas habilités à encadrer des activités de ski de randonnées en haute montagne, cette prérogative étant réservée aux guides de haute montagne et aux moniteurs de ski."
+        },
+        {
+          "text": "Organiser des sorties de ski de randonnée sur des pentes raides.",
+          "is_true": false,
+          "explanation": "Les AMM ne sont pas autorisés à encadrer le ski de randonnée, surtout sur des pentes raides, cette activité relevant des compétences des guides de haute montagne."
+        },
+        {
+          "text": "Organiser des sorties de ski de randonnée sur des pentes douces.",
+          "is_true": false,
+          "explanation": "Les AMM ne sont pas autorisés à encadrer le ski de randonnée, même sur pentes douces, cette activité relevant des compétences des guides de haute montagne ou des moniteurs de ski alpin."
+        },
+        {
+          "text": "Encadrer des randonnées en raquettes à neige jusqu'au Mont Blanc",
+          "is_true": false,
+          "explanation": "Le Mont Blanc nécessitant du matériel et des compétences en alpinisme, est hors des prérogatives de l'AMM"
+        },
+        {
+          "text": "Encadrer une classe de lycéen en itinérance à raquettes",
+          "is_true": true,
+          "explanation": "l'AMM peut 'concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard enneigé pour tout public'."
+        },
+        {
+          "text": "Encadrer et animer une classe de maternelle en milieu montagnard enneigé",
+          "is_true": true,
+          "explanation": "l'AMM peut 'concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard enneigé pour tout public'"
+        },
+        {
+          "text": "Encadrer des randonnées en raquettes à neige sur des terrains accidentés avec risques d'avalanches.",
+          "is_true": false,
+          "explanation": "Les AMM doivent éviter les terrains accidentés présentant des risques d'avalanches, leurs prérogatives se limitant aux terrains enneigés faciles et sécurisés."
+        },
+        {
+          "text": "Conduire des randonnées en milieu tropical et équatorial.",
+          "is_true": false,
+          "explanation": "Les AMM spécialisés en milieu enneigé ne sont pas nécessairement formés pour encadrer des randonnées en milieu tropical et équatorial, qui requièrent des compétences spécifiques."
+        },
+        {
+          "text": "Encadrer des randonnées pédestres en montagne en l'absence de neige.",
+          "is_true": true,
+          "explanation": "Les AMM sont qualifiés pour encadrer des randonnées pédestres en montagne, que le milieu soit enneigé ou non."
+        },
+        {
+          "text": "Encadrer une randonnée en raquettes à neige sur le Glacier Blanc",
+          "is_true": false,
+          "explanation": "Les zones glaciaires, zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme sont exclues des prérogatives de l'AMM."
+        }
+      ],
+      "description": "Le titulaire du diplôme d'Etat d'alpinisme - accompagnateur en moyenne montagne, relevant de la filière alpinisme filière, atteste, pour tout public, des compétences de son titulaire pour encadrer, conduire, animer, enseigner, entraîner en sécurité des personnes ou des groupes en moyenne montagne, à l'exclusion des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme. Le titulaire du diplôme d'Etat d'alpinisme - accompagnateur en moyenne montagne peut également :\n1° Animer et enseigner les connaissances et les compétences propres à la pratique de l'activité et au milieu ;\n2° Conduire des randonnées en sécurité pour tout type de public en situation isolée ;\n3° En fonction de l'option choisie :\na) Pour l'unité de formation optionnelle « concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard enneigé pour tout public », il peut exercer sur des reliefs vallonnés excluant tout accident de terrain important. Notons que l'encadrement de toutes les disciplines du ski et des activités dérivées est exclu à l'exception de la raquette à neige ;\nb) Pour l'unité de formation optionnelle « concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard tropical et équatorial en période de fortes précipitations, pour tout public », il peut exercer dans des régions à climat tropical et équatorial sur des terrains escarpés et détrempés en périodes, fixées par l'autorité publique compétente, de fortes précipitations.\nLe diplôme d'Etat d'alpinisme - accompagnateur en moyenne montagne est délivré dans l'une ou l'autre des deux options « concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard enneigé pour tout public » et « concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard tropical et équatorial en période de fortes précipitations, pour tout public » par le service national des métiers de l'encadrement du ski et de l'alpinisme.",
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048881009",
+          "description": "Legifrance : Arrêté du 19 décembre 2023 relatif à la formation spécifique du diplôme d'Etat d'alpinisme - accompagnateur en moyenne montagne"
+        },
+        {
+          "reference_type": "url",
+          "url": "https://sites.google.com/view/probaamm/environnement-professionnel-amm",
+          "description": "Environnement professionnel AMM - Google Sites"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Milieu montagnard tropical et équatorial",
+        "La profession d’AMM, son environnement géographique, institutionnel et réglementaire",
+        "prérogatives",
+        "Prérogatives d'exercice des AMM en milieu tropical et équatorial"
+      ],
+      "question": "Quelles sont les prérogatives d'exercice d'un Accompagnateur en Moyenne Montagne (AMM) diplômé ayant validé l'option milieu tropical et équatorial ?",
+      "image_path": null,
+      "answers": [
+        {
+          "text": "Conduire des randonnées en toute sécurité sur des terrains détrempés en période de fortes précipitations.",
+          "is_true": true,
+          "explanation": "L'AMM formé à cette option est habilité à encadrer des randonnées sur des terrains difficiles en période de précipitations tropicales."
+        },
+        {
+          "text": "Encadrer des groupes en période sèche uniquement.",
+          "is_true": false,
+          "explanation": "Les prérogatives de l'AMM incluent aussi les périodes de fortes précipitations dans les régions tropicales et équatoriales."
+        },
+        {
+          "text": "Organiser des expéditions en haute montagne tropicale nécessitant des techniques d'alpinisme.",
+          "is_true": false,
+          "explanation": "L'arrêté stipule que l'AMM n'est pas habilité à encadrer des activités nécessitant des techniques d'alpinisme."
+        },
+        {
+          "text": "Encadrer des randonnées pédestres pour tout public en milieu tropical.",
+          "is_true": true,
+          "explanation": "L'AMM peut : *« concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard tropical et équatorial en période de fortes précipitations, pour tout public »*."
+        },
+        {
+          "text": "Encadrer une animation pour une classe de CE1 en milieu tropical et équatorial.",
+          "is_true": true,
+          "explanation": "L'AMM peut : *« concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard tropical et équatorial en période de fortes précipitations, pour tout public »*."
+        },
+        {
+          "text": "Encadrer un séjour en itinérance une classe de seconde en milieu tropical et équatorial.",
+          "is_true": true,
+          "explanation": "L'AMM peut : *« concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard tropical et équatorial en période de fortes précipitations, pour tout public »*. Cela inclut les prérogatives en itinérance."
+        },
+        {
+          "text": "Surveiller la sécurité des groupes sur des parcours aquatiques en milieu tropical.",
+          "is_true": false,
+          "explanation": "Les AMM n'ont pas de prérogatives spécifiques pour encadrer des parcours aquatiques."
+        },
+        {
+          "text": "Encadrer des sorties naturalistes type « affut d'oiseaux » en forêt équatoriale.",
+          "is_true": true,
+          "explanation": "L'AMM peut en aussi *« Animer et enseigner les connaissances et les compétences propres à la pratique de l'activité et au milieu »*."
+        },
+        {
+          "text": "Encadrer une sortie highline sur l'arête des Trois Salazes",
+          "is_true": false,
+          "explanation": "Les activités telles que la Highline ou l'alpinisme ne font pas partie des prérogatives de l'AMM..."
+        },
+        {
+          "text": "Encadrer une sortie dans un canyon",
+          "is_true": false,
+          "explanation": "Les zones glaciaires, zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme sont exclues des prérogatives de l'AMM"
+        }
+      ],
+      "description": "L'Accompagnateur en Moyenne Montagne (AMM) titulaire de l'option **milieu tropical et équatorial** est spécifiquement formé pour encadrer des randonnées en sécurité dans ces environnements particuliers. Cette option concerne des terrains souvent **escarpés et détrempés**, en période de fortes précipitations, fixées par l'autorité publique compétente.\n\n### Prérogatives spécifiques :\n- Conduire et encadrer des groupes pour tout type de public dans des environnements tropicaux et équatoriaux.\n- Gérer les risques liés aux fortes précipitations et à l'état des terrains (détrempés et glissants).\n- Adapter l'encadrement pour assurer la sécurité des participants.\n\n### Limites des prérogatives :\n- Les AMM ne sont pas autorisés à encadrer des activités nécessitant des compétences d'alpinisme, des techniques spécifiques ou du matériel particulier (zones rocheuses complexes, glaciers, canyons).\n- Ils n'ont pas de prérogatives sur des activités aquatiques, même en milieu tropical.\n\nCette option requiert une formation spécifique validée par un diplôme d'État délivré par les autorités compétentes. Les connaissances incluent la gestion de la météo, les risques climatiques, et l'adaptation à l'environnement équatorial exigeant.",
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048881009",
+          "description": "Arrêté du 19 décembre 2023 relatif à la formation spécifique du diplôme d'État d'alpinisme - accompagnateur en moyenne montagne"
+        },
+        {
+          "reference_type": "url",
+          "url": "https://sites.google.com/view/probaamm/environnement-professionnel-amm",
+          "description": "Environnement professionnel AMM - Google Sites"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Milieu montagnard enneigé",
+        "Randonner en sécurité en milieu montagnard enneigé",
+        "Avalanche",
+        "DVA"
+      ],
+      "question": "Quels sont les principes fondamentaux pour utiliser efficacement un DVA en cas d'avalanche ?",
+      "image_path": null,
+      "answers": [
+        {
+          "text": "Un DVA seul ne suffit pas, il est essentiel d'avoir une pelle et une sonde.",
+          "is_true": true,
+          "explanation": "Un DVA est inefficace seul; il doit être complété par une pelle et une sonde pour localiser et dégager efficacement une victime."
+        },
+        {
+          "text": "Le DVA seul suffit pour retrouver une victime.",
+          "is_true": false,
+          "explanation": "Le DVA doit être utilisé en combinaison avec une pelle et une sonde pour être efficace. La pelle est nécessaire pour le dégagement, et la sonde pour la localisation exacte de la victime."
+        },
+        {
+          "text": "Il est suffisant de s'entraîner à la recherche multi-victimes.",
+          "is_true": false,
+          "explanation": "Pour les randonneurs amateurs, de bons entraînements en recherche simple semblent suffisants, car 80% des avalanches n'ensevelissent qu'une seule personne."
+        },
+        {
+          "text": "Il faut garder son téléphone allumé dans sa poche en mode recherche.",
+          "is_true": false,
+          "explanation": "Le téléphone allumé peut interférer avec le DVA et perturber la recherche. Il est conseillé de le mettre en mode avion."
+        },
+        {
+          "text": "Tous les DVA du groupe doivent être en mode recherche pendant la recherche.",
+          "is_true": true,
+          "explanation": "Tous les DVA du groupe doivent être en mode recherche ou éteints : Il serait bête de perdre du temps pour rechercher un compagnon qui a toujours son DVA en mode émission..."
+        },
+        {
+          "text": "En entraînement, il est crucial de savoir creuser un mètre de neige rapidement.",
+          "is_true": true,
+          "explanation": "S'entraîner à creuser efficacement un trou dans la neige est important pour gagner du temps lors du dégagement d'une victime."
+        },
+        {
+          "text": "Chaque membre du groupe doit rechercher individuellement la victime en cas d'avalanche.",
+          "is_true": false,
+          "explanation": "Répartir les tâches est plus efficace que de chercher individuellement. Un membre recherche, un autre prépare pelle, sonde, et creuse."
+        },
+        {
+          "text": "Un téléphone allumé peut interférer avec le fonctionnement du DVA.",
+          "is_true": true,
+          "explanation": "En mode recherche, un téléphone allumé peut interférer avec un DVA, il est donc recommandé de le mettre en mode avion."
+        },
+        {
+          "text": "La profondeur d’ensevelissement moyenne en avalanche est d’environ un mètre.",
+          "is_true": true,
+          "explanation": "La profondeur d’ensevelissement moyenne en avalanche est d’environ un mètre, ce qui rend le pelletage difficile et chronophage."
+        },
+        {
+          "text": "En cas d'avalanche, si vous êtes seul et que la victime porte un DVA, il faut d'abord appeler les secours.",
+          "is_true": false,
+          "explanation": "Si vous êtes seul, il faut commencer par la recherche. Appeler les secours fera perdre des minutes précieuses."
+        },
+        {
+          "text": "Lorsqu'une personne est ensevelie, il faut toujours appeler les secours avant de commencer la recherche.",
+          "is_true": false,
+          "explanation": "Si vous êtes seul et que vous savez que la victime porte un DVA, commencez immédiatement la recherche car les secours arriveront après vous."
+        },
+        {
+          "text": "Les appareils numériques actuels facilitent la recherche par rapport aux modèles analogiques.",
+          "is_true": true,
+          "explanation": "Les DVA numériques modernes sont plus faciles à utiliser et plus précis que les anciens modèles analogiques."
+        }
+      ],
+      "description": "L'utilisation efficace d'un DVA (Détecteur de Victime d'Avalanche) en cas d'avalanche repose sur plusieurs principes clés :\n\n1. **Équipement complet** : Un DVA doit être utilisé avec une pelle et une sonde pour être efficace.\n\n2. **Port du DVA** : Le DVA doit être porté sous les vêtements, près du corps, jamais dans une poche de pantalon, pour être retrouvé en cas d'avalanche.\n\n3. **Entraînement** : S'entraîner régulièrement à utiliser le DVA et à creuser rapidement est vital pour la survie.\n\n4. **Interférences** : En mode recherche, un téléphone allumé peut perturber le DVA. Il est recommandé de le mettre en mode avion.\n\n5. **Gestion de l'urgence** : Répartissez les tâches entre les membres du groupe et si vous êtes seul, commencez la recherche immédiatement plutôt que d'appeler les secours d'abord.\n\nComprendre et pratiquer ces principes peut augmenter considérablement les chances de sauver une vie en cas d'avalanche.",
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_victimes_d%27avalanches",
+          "description": "Détecteur victime avalanche - Wikipédia"
+        },
+        {
+          "reference_type": "url",
+          "url": "https://www.montagnes-magazine.com/pedago-savoir-utiliser-dva",
+          "description": "Savoir utiliser son DVA - Montagnes Magazine"
+        },
+        {
+          "reference_type": "url",
+          "url": "https://alpinemag.fr/comment-se-servir-dun-dva-test-mammut-barryvox-s2-secours-avalanche/",
+          "description": "Comment se servir d’un DVA ? Test du Mammut Barryvox S2 - Alpinemag"
+        },
+        {
+          "reference_type": "url",
+          "url": "https://www.mon-sejour-en-montagne.com/tutos/le-dva-detecteur-de-victime-en-avalanche-c-est-quoi/",
+          "description": "Le DVA (Détecteur de Victime en Avalanche) : c’est quoi ? - Mon Séjour en Montagne"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Milieu montagnard enneigé",
+        "Randonner en sécurité en milieu montagnard enneigé",
+        "Avalanche",
+        "DVA"
+      ],
+      "question": "À quoi sert un DVA ?",
+      "answers": [
+        {
+          "text": "À localiser une victime ensevelie sous une avalanche.",
+          "is_true": true,
+          "explanation": "C'est la fonction principale d'un DVA. Il permet de localiser une victime ensevelie grâce à son signal radio."
+        },
+        {
+          "text": "À mesurer la profondeur de la neige.",
+          "is_true": false,
+          "explanation": "Le DVA ne mesure pas la profondeur de la neige. Pour cela, on utilise une sonde ou d'autres outils spécifiques."
+        },
+        {
+          "text": "À émettre un signal pour être retrouvé en cas d'ensevelissement.",
+          "is_true": true,
+          "explanation": "En mode émission, le DVA émet un signal radio continu pour permettre aux secouristes ou aux compagnons de localiser une personne ensevelie."
+        },
+        {
+          "text": "À détecter les plaques à vent sur une pente.",
+          "is_true": false,
+          "explanation": "Le DVA ne détecte pas les plaques à vent. L'évaluation des plaques se fait par observation de la neige et des conditions météorologiques."
+        },
+        {
+          "text": "A rester en surface de l'avalanche.",
+          "is_true": false,
+          "explanation": "Le DVA est incapable de cela, en revanche, les sacs airbags aident à rester en surface d'une avalanche."
+        },
+        {
+          "text": "A appeler les secours en cas d'avalanche",
+          "is_true": false,
+          "explanation": "Non, le DVA emet un signal radio qui n'est detecté qu'à quelques dizaines de mètres de lui seulement."
+        }
+      ],
+      "description": "Le DVA permet, si l'on est enseveli sous une avalanche, d'être localisé rapidement par les membres à proximité qui ont eux aussi un DVA. Le DVA doit être utilisé en combinaison d'une pelle et d'une sonde pour être efficace.",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_victimes_d%27avalanches",
+          "description": "Détecteur de victimes d'avalanches - Wikipédia"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Milieu montagnard enneigé",
+        "Randonner en sécurité en milieu montagnard enneigé",
+        "Avalanche",
+        "DVA"
+      ],
+      "question": "Dans la liste ci dessous, coches le ou les modes principaux d'un DVA ?",
+      "answers": [
+        {
+          "text": "Mode Recherche",
+          "is_true": true,
+          "explanation": "Le mode recherche est utilisé pour capter les signaux émis par un autre DVA et localiser une victime."
+        },
+        {
+          "text": "Mode Veille",
+          "is_true": false,
+          "explanation": "Un DVA est soit en mode émission, soit en mode recherche (ou reception), il n'a pas de mode veille."
+        },
+        {
+          "text": "Mode Émission",
+          "is_true": true,
+          "explanation": "Le mode émission est le mode par défaut, activé pour émettre un signal en cas d'ensevelissement."
+        },
+        {
+          "text": "Mode Alarme",
+          "is_true": false,
+          "explanation": "Un DVA n'a pas pour utilité d'émettre une alarme, mais de pouvoir être localisé rapidement sous la neige à l'aide de signaux radio."
+        },
+        {
+          "text": "Mode météo",
+          "is_true": false,
+          "explanation": "Le DVA n'a pas de rapport avec la météo, et n'a donc pas de mode météo."
+        },
+        {
+          "text": "Mode Détection de plaques",
+          "is_true": false,
+          "explanation": "Le DVA ne possède pas de mode dédié à la détection des plaques."
+        }
+      ],
+      "description": "Les 2 modes principaux d'un DVA sont le mode recherche et le mode émission : Le mode recherche permet de pouvoir localiser une ou plusieurs victimes ensevelies sous la neige tandis que le mode émission permet quant à lui de pouvoir être détecté et ainsi localisé si on est pris dans une avalanche.",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_victimes_d%27avalanches",
+          "description": "Détecteur de victimes d'avalanches - Wikipédia"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Milieu montagnard enneigé",
+        "Randonner en sécurité en milieu montagnard enneigé",
+        "Avalanche",
+        "DVA"
+      ],
+      "question": "Dans la liste ci dessous, coches le ou les équipements complémentaires indispensables au DVA ?",
+      "answers": [
+        {
+          "text": "Une sonde.",
+          "is_true": true,
+          "explanation": "La sonde est indispensable pour localiser précisément la victime sous la neige après avoir capté le signal avec le DVA."
+        },
+        {
+          "text": "Un téléphone portable avec GPS.",
+          "is_true": false,
+          "explanation": "Bien qu'un téléphone portable puisse être utile pour appeler les secours, il ne remplace pas la sonde et la pelle, qui sont indispensables pour une recherche rapide."
+        },
+        {
+          "text": "Une pelle.",
+          "is_true": true,
+          "explanation": "La pelle est essentielle pour dégager rapidement la victime une fois qu'elle est localisée."
+        },
+        {
+          "text": "Un sac à dos airbag.",
+          "is_true": false,
+          "explanation": "Un sac à dos airbag est un équipement de prévention qui peut réduire les risques d'ensevelissement, mais il ne fait pas partie du trio indispensable (DVA, sonde, pelle) pour une recherche."
+        },
+        {
+          "text": "Une trousse de secours",
+          "is_true": false,
+          "explanation": "Bien que la trousse de secours puisse être utile une fois la victime déblayée, elle n'est pas indispensable à la bonne complémentarité d'un DVA."
+        },
+        {
+          "text": "Une radio",
+          "is_true": false,
+          "explanation": "Utile pour appeler les secours dans des milieux isolés, elle n'est pas essentielle pour la recherche de victimes d'avalanche."
+        }
+      ],
+      "description": "Les 2 équipements complémentaires indispensables au DVA sont la pelle et la sonde. On parle souvent du trio DVA / Pelle / Sonde. En effet, le DVA seul ne permettrait ni de localiser précisément la victime, ni de pouvoir la déblayer. La sonde permet de pouvoir localiser précisément la victime sous la neige, tandis que la pelle permet de la déblayer efficacement. On estime par exemple qu'à la main, il faudrait 40mn pour déblayer une personne ensevelie sous 1,50m de neige...",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_victimes_d%27avalanches",
+          "description": "Détecteur de victimes d'avalanches - Wikipédia"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Milieu montagnard enneigé",
+        "Randonner en sécurité en milieu montagnard enneigé",
+        "Avalanche",
+        "DVA"
+      ],
+      "question": "Sur un DVA, quel est le mode à activer lorsque vous partez en montagne ?",
+      "answers": [
+        {
+          "text": "Mode Recherche",
+          "is_true": false,
+          "explanation": "Le mode recherche est activé uniquement en cas d'avalanche pour localiser une victime."
+        },
+        {
+          "text": "Mode Veille",
+          "is_true": false,
+          "explanation": "Il n'existe pas de mode veille sur un DVA."
+        },
+        {
+          "text": "Mode Émission",
+          "is_true": true,
+          "explanation": "Le mode émission est le mode par défaut. Il permet à chaque personne équipée d'être détectable en cas d'ensevelissement."
+        },
+        {
+          "text": "Mode Alarme",
+          "is_true": false,
+          "explanation": "Il n'y a pas de mode alarme spécifique sur un DVA; le mode émission sert à être détecté en cas d'ensevelissement."
+        }
+      ],
+      "description": "Lorsque vous partez sur une sortie comportant des sections enneigées, le port du DVA vous permettra d'être rapidement localisé par vos proches ou secours. Pour cela, il faudra néanmoins avoir activé le mode émission. Le mode recherche est quant à lui activé après qu'une victime ait été ensevelie, afin de pouvoir la localiser rapidement.",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_victimes_d%27avalanches",
+          "description": "Détecteur de victimes d'avalanches - Wikipédia"
+        }
+      ]
+    },
+{
+  "topics": [
+    "AMM",
+    "Probatoire AMM",
+    "Milieu montagnard enneigé",
+    "Randonner en sécurité en milieu montagnard enneigé",
+    "Avalanche",
+    "DVA"
+  ],
+  "question": "Quelle fréquence utilise un DVA pour émettre et recevoir des signaux ?",
+  "answers": [
+    {
+      "text": "457 kHz",
+      "is_true": true,
+      "explanation": "C'est la fréquence standardisée utilisée par les DVA pour émettre et recevoir des signaux."
+    },
+    {
+      "text": "100 MHz",
+      "is_true": false,
+      "explanation": "Cette fréquence n'est pas utilisée par les DVA."
+    },
+    {
+      "text": "2.4 GHz",
+      "is_true": false,
+      "explanation": "Cette fréquence est couramment utilisée pour les réseaux Wi-Fi, mais pas pour les DVA."
+    },
+    {
+      "text": "136–174 MHz",
+      "is_true": false,
+      "explanation": "C'est la bande de fréquence utilisée par les radios professionnelles permettant notamment d'appeler les secours."
+    },
+    {
+      "text": "869.8 MHz",
+      "is_true": false,
+      "explanation": "Sur certains modèles de DVA, la technologie W-Link permettant d'envoyer des informations complémentaires utilise cette fréquence dans la région A (Europe globale)."
+    },
+    {
+      "text": "916–926 MHz",
+      "is_true": false,
+      "explanation": "Sur certains modèles de DVA, la technologie W-Link permettant d'envoyer des informations complémentaires utilise cette bande de fréquence dans la région B (Canada et États-Unis)."
+    },
+    {
+      "text": "2 275 kHz",
+      "is_true": false,
+      "explanation": "C'était la toute première fréquence utilisée par les premiers appareils de détection de victimes d'avalanches. Désormais, la norme de 1984 a mis les entreprises d'accord pour utiliser la fréquence de 457 kHz."
+    }
+  ],
+  "description": "Les Détecteurs de Victimes d'Avalanche (DVA) sont des appareils essentiels pour la sécurité en montagne, permettant de localiser rapidement une personne ensevelie sous la neige. **Fréquence standardisée de 457 kHz**\n\n## Bref Historique\n  - **1968** : Les premiers DVA, comme le système Skadi développé aux États-Unis, utilisaient la fréquence de 2 275 kHz. Parallèlement, en Suisse, le modèle VS68 émettait sur 457 kHz. Cette disparité rendait la compatibilité entre appareils difficile.\n  - **1984** : Grâce aux efforts de la Commission Internationale du Secours Alpin (CISA) et de la Deutsche Industrie Norm (DIN), une norme européenne a été établie, fixant la fréquence unique à 457 kHz pour tous les DVA.\n  - **1992** : Cette norme est devenue mondiale, assurant une compatibilité universelle entre tous les appareils.\n\n## Caractéristiques\n  La fréquence de 457 kHz a été choisie pour ses propriétés physiques, notamment sa capacité à traverser efficacement la neige et le corps humain sans perte significative de puissance.\nLes DVA émettent des signaux à intervalles réguliers, avec une durée d'impulsion comprise entre 70 ms et 400 ms, et un intervalle de 1000ms +- 300ms entre chaque impulsion, conformément aux normes établies.\n\n##Technologie W-Link\n\nLe W-Link est une technologie additionnelle présente dans certains DVA modernes, permettant la transmission de données supplémentaires entre appareils compatibles. Cette technologie offrant la possibilité d'envoyer certains signaux vitaux est néanmoins controversée, notamment du fait qu'elle n'est pas universelle, et qu'elle pose certaines questions éthiques lors des possibles choix faits lors de la recherche de victimes.\n\n - Fréquence Région A (Europe et pays voisins) : 869.8 MHz. \n  - Fréquence Région B (Canada, États-Unis, Nouvelle-Zélande et Australie) : 916–926 MHz. \n\nNote : Beaucoup de pays (Russie, Chine, Inde, Australie, Nouvelle Zélande, Japon, etc...) interdisent ce signal dans le monde, et il faudra donc désactiver cette fonctionnalité sur votre DVA si elle existe...",
+  "image_path": null,
+  "references": [
+    {
+      "reference_type": "url",
+      "url": "https://fr.wikipedia.org/wiki/D%C3%A9tecteur_de_victimes_d%27avalanches",
+      "description": "Détecteur de victimes d'avalanches - Wikipédia"
+    },
+    {
+      "reference_type": "url",
+      "url": "https://en.wikipedia.org/wiki/Avalanche_transceiver#W-Link",
+      "description": "Avalanche transceiver # W-Link - Wikipedia"
+    }
+  ]
+},
+
+
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Geologie",
+        "Roches",
+        "Le milieu montagnard"
+      ],
+      "question": "Le grès est :",
+      "answers": [
+        {
+          "text": "Une roche sédimentaire d'origine détritique",
+          "is_true": true,
+          "explanation": "Le grès est une roche composée de grains de sable consolidés par diagenèse, provenant de l'érosion d'autres roches. Cela en fait une roche détritique."
+        },
+        {
+          "text": "Issue de la sédimentation de grains de sable",
+          "is_true": true,
+          "explanation": "La formation du grès implique la sédimentation et la cimentation de grains de sable, caractéristiques des roches sédimentaires."
+        },
+        {
+          "text": "Une roche magmatique plutonique",
+          "is_true": false,
+          "explanation": "Les roches magmatiques plutoniques, comme le granite, se forment par refroidissement lent du magma en profondeur. Le grès est une roche sédimentaire."
+        },
+        {
+          "text": "Une roche métamorphique",
+          "is_true": false,
+          "explanation": "Le grès est une roche sédimentaire. Les roches métamorphiques, comme le marbre, sont formées par transformation à l'état solide sous chaleur et pression."
+        },
+        {
+          "text": "N'est pas une roche",
+          "is_true": false,
+          "explanation": "Le grès est bien une roche, reconnue pour ses caractéristiques sédimentaires et sa formation à partir de grains de sable cimentés."
+        }
+      ],
+      "description": "Roche sédimentaire détritique (composée de débris issus de l’érosion d’autres roches), issue de l’agrégation et de la cimentation de grains de sable. Il peut s’agir d’une roche cohérente et dure. Ces grains sont souvent composés de silice (quartz, et parfois même de grains de feldspath et de micas noirs), mais ils peuvent avoir d’autres compositions.",
+      "image_path": null
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Meteorologie",
+        "Le milieu montagnard"
+      ],
+      "question": "Si l'altitude sur mon altimètre barométrique diminue, cela peut signifier que :",
+      "answers": [
+        {
+          "text": "La pression a augmenté",
+          "is_true": true,
+          "explanation": "Un altimètre barométrique mesure l'altitude en fonction de la pression atmosphérique, qui augmente à mesure que l'on descend en altitude."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de beau temps",
+          "is_true": true,
+          "explanation": "Une augmentation de la pression à altitude constante est généralement associée à l'arrivée de conditions météorologiques stables et ensoleillées."
+        },
+        {
+          "text": "Vous êtes descendus en altitude",
+          "is_true": true,
+          "explanation": "Lorsque vous descendez en altitude, la pression atmosphérique augmente, ce qui se traduit par une diminution indiquée sur l'altimètre barométrique."
+        },
+        {
+          "text": "La pression a diminué",
+          "is_true": false,
+          "explanation": "Une diminution de la pression correspondrait à une augmentation de l'altitude, ce qui est contraire à la situation décrite."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de mauvais temps",
+          "is_true": false,
+          "explanation": "Une pression qui diminue à altitude constante est souvent un signe de dégradation des conditions météorologiques."
+        },
+        {
+          "text": "Vous êtes montés en altitude",
+          "is_true": false,
+          "explanation": "Monter en altitude entraîne une diminution de la pression, ce qui n'est pas cohérent avec une altitude indiquée en baisse sur l'altimètre."
+        }
+      ],
+      "description": "L'altimètre barométrique prend en compte la pression de l'atmosphère afin de calculer l'altitude, de manière inversement proportionnelle. Cela signifie que si l'altitude sur le baromètre diminue, la pression augmente alors, et inversement.",
+      "image_path": null
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Meteorologie",
+        "Le milieu montagnard"
+      ],
+      "question": "Si l'altitude sur mon altimètre barométrique augmente, cela peut signifier que :",
+      "answers": [
+        {
+          "text": "La pression a diminué",
+          "is_true": true,
+          "explanation": "Une augmentation de l'altitude mesurée sur un altimètre barométrique est causée par une diminution de la pression atmosphérique."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de mauvais temps",
+          "is_true": true,
+          "explanation": "Une baisse de pression atmosphérique à altitude constante peut indiquer une dégradation des conditions météorologiques, souvent associée à une arrivée de mauvais temps."
+        },
+        {
+          "text": "Vous êtes montés en altitude",
+          "is_true": true,
+          "explanation": "Lorsque vous montez en altitude, la pression atmosphérique diminue, ce qui est mesuré par une augmentation sur l'altimètre barométrique."
+        },
+        {
+          "text": "La pression a augmenté",
+          "is_true": false,
+          "explanation": "Une augmentation de la pression correspondrait à une descente en altitude, ce qui est contraire à la situation décrite."
+        },
+        {
+          "text": "À altitude constante, cela est annonciateur de beau temps",
+          "is_true": false,
+          "explanation": "Une augmentation de la pression à altitude constante serait associée à une amélioration des conditions météorologiques, ce qui n'est pas le cas ici."
+        },
+        {
+          "text": "Vous êtes descendus en altitude",
+          "is_true": false,
+          "explanation": "Descendre en altitude entraîne une augmentation de la pression, ce qui est contraire à la situation où l'altitude mesurée augmente."
+        }
+      ],
+      "description": "L'altimètre barométrique prend en compte la pression de l'atmosphère afin de calculer l'altitude, de manière inversement proportionnelle. Cela signifie que si l'altitude sur le baromètre diminue, la pression augmente alors, et inversement.",
+      "image_path": null
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques",
+        "Biodiversité et écosystème"
+      ],
+      "question": "Le biotope :",
+      "answers": [
+        {
+          "text": "Est un milieu qui héberge un ensemble de formes de vie composant la biocénose",
+          "is_true": true,
+          "explanation": "Le biotope correspond aux caractéristiques physiques et chimiques d'un milieu qui permettent d'accueillir la biocénose, c'est-à-dire les formes de vie qui y vivent."
+        },
+        {
+          "text": "Est un lieu de vie défini par des caractéristiques physiques et chimiques déterminées, relativement uniformes",
+          "is_true": true,
+          "explanation": "Le biotope est défini par des conditions spécifiques (température, humidité, sol) qui déterminent le type de vie qu'il peut héberger."
+        },
+        {
+          "text": "Et la biocénose forment un écosystème",
+          "is_true": true,
+          "explanation": "L'écosystème est l'interaction entre la biocénose (êtres vivants) et le biotope (milieu de vie)."
+        },
+        {
+          "text": "Est en interaction constante avec la biocénose",
+          "is_true": true,
+          "explanation": "Le biotope et la biocénose interagissent constamment, les êtres vivants influençant le milieu et vice-versa."
+        },
+        {
+          "text": "Est synonyme de biocénose",
+          "is_true": false,
+          "explanation": "Le biotope désigne le milieu physique et chimique, tandis que la biocénose représente l'ensemble des organismes vivants qui y habitent."
+        },
+        {
+          "text": "Est synonyme d'écosystème",
+          "is_true": false,
+          "explanation": "L'écosystème englobe à la fois le biotope (milieu) et la biocénose (êtres vivants), ils ne sont donc pas synonymes."
+        },
+        {
+          "text": "Est l'ensemble des êtres vivants dans un milieu donné.",
+          "is_true": false,
+          "explanation": "Ce serait la définition de la biocénose et non celle du biotope, qui désigne uniquement le milieu physique."
+        },
+        {
+          "text": "N'est pas en interaction avec la biocénose",
+          "is_true": false,
+          "explanation": "Le biotope est en interaction constante avec la biocénose, car les êtres vivants modifient leur environnement, et en sont également affectés."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "Une régulation :",
+      "answers": [
+        {
+          "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+          "is_true": true,
+          "explanation": "Les régulations peuvent inclure des mécanismes dans les systèmes agricoles où les interactions entre les espèces et les pratiques humaines influencent l'équilibre."
+        },
+        {
+          "text": "Est une auto-organisation de l’écosystème permettant, en réponse à des perturbations, de conserver l’état d’équilibre antérieur ou d’adapter le système en l’amenant vers un nouvel état d’équilibre.",
+          "is_true": true,
+          "explanation": "Les régulations naturelles d'un écosystème répondent aux perturbations pour maintenir ou rétablir un équilibre écologique."
+        },
+        {
+          "text": "Peut être induite, ou spontanée",
+          "is_true": true,
+          "explanation": "Une régulation peut se produire spontanément dans la nature ou être le résultat d'actions humaines pour gérer un écosystème."
+        },
+        {
+          "text": "N'est jamais provoquée par l'Homme",
+          "is_true": false,
+          "explanation": "Les humains peuvent induire des régulations, par exemple en contrôlant les populations animales ou en aménageant des milieux naturels."
+        },
+        {
+          "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats",
+          "is_true": false,
+          "explanation": "Ce processus décrit une colonisation, et non une régulation."
+        },
+        {
+          "text": "Est le processus par lequel des nutriments s'accumulent dans un milieu ou un habitat (terrestre ou aquatique).",
+          "is_true": false,
+          "explanation": "L'accumulation de nutriments correspond à l'eutrophisation, et non à une régulation."
+        },
+        {
+          "text": "Est souvent synonyme de mutualisme",
+          "is_true": false,
+          "explanation": "Le mutualisme est une interaction bénéfique entre deux espèces, tandis qu'une régulation concerne le maintien de l'équilibre dans un écosystème."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "La colonisation :",
+      "answers": [
+        {
+          "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+          "is_true": true,
+          "explanation": "La colonisation correspond à l'établissement d'une espèce dans un habitat où elle n'était pas présente auparavant."
+        },
+        {
+          "text": "Désigne généralement un processus naturel et spontané",
+          "is_true": true,
+          "explanation": "Ce processus peut se produire naturellement, par dispersion ou migration, sans intervention humaine."
+        },
+        {
+          "text": "Est souvent synonyme de parasitisme",
+          "is_true": false,
+          "explanation": "Le parasitisme est une interaction spécifique entre deux organismes, ce qui est différent du processus écologique de colonisation."
+        },
+        {
+          "text": "Est le processus par lequel des nutriments s'accumulent dans un milieu ou un habitat (terrestre ou aquatique).",
+          "is_true": false,
+          "explanation": "Ce phénomène correspond à l'eutrophisation et non à la colonisation."
+        },
+        {
+          "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+          "is_true": false,
+          "explanation": "Cette définition concerne les régulations dans les systèmes agricoles et non la colonisation."
+        },
+        {
+          "text": "Est à proprement parler une artificialisation",
+          "is_true": false,
+          "explanation": "L'artificialisation implique la transformation d'un milieu naturel par des activités humaines, ce qui est différent de la colonisation."
+        },
+        {
+          "text": "Est la transformation de l'environnement par l'homme",
+          "is_true": false,
+          "explanation": "La transformation de l'environnement par l'homme correspond à l'artificialisation, et non à la colonisation."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "L'eutrophisation :",
+      "answers": [
+        {
+          "text": "Est le processus par lequel des nutriments s'accumulent dans un milieu ou un habitat (terrestre ou aquatique).",
+          "is_true": true,
+          "explanation": "L'eutrophisation correspond à l'enrichissement d'un écosystème en nutriments, souvent azotés ou phosphorés, entraînant une prolifération d'organismes, comme les algues."
+        },
+        {
+          "text": "Est souvent en lien avec des activités humaines (anthropisation)",
+          "is_true": true,
+          "explanation": "Les activités humaines, comme l'agriculture intensive ou les rejets d'eaux usées, sont des sources principales de nutriments responsables de l'eutrophisation."
+        },
+        {
+          "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+          "is_true": false,
+          "explanation": "Cette définition correspond aux régulations agroécologiques, et non à l'eutrophisation, qui est un phénomène écologique."
+        },
+        {
+          "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+          "is_true": false,
+          "explanation": "La propagation d'une espèce dans de nouveaux habitats est une colonisation, et non de l'eutrophisation."
+        },
+        {
+          "text": "Est sans effet sur l'écosystème local",
+          "is_true": false,
+          "explanation": "L'eutrophisation a des impacts majeurs sur les écosystèmes, notamment par l'appauvrissement en oxygène, affectant les espèces locales."
+        },
+        {
+          "text": "N'est jamais causé par les activités humaines",
+          "is_true": false,
+          "explanation": "Les activités humaines, comme l'utilisation excessive de fertilisants, sont souvent les principales causes de l'eutrophisation."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "L'anthropisation :",
+      "answers": [
+        {
+          "text": "Est synonyme d'activité humaine",
+          "is_true": true,
+          "explanation": "L'anthropisation désigne l'ensemble des modifications des écosystèmes naturelles dues aux activités humaines."
+        },
+        {
+          "text": "Est à proprement parler une artificialisation",
+          "is_true": true,
+          "explanation": "L'anthropisation inclut des processus d'artificialisation, comme l'urbanisation ou l'agriculture, qui transforment les milieux naturels."
+        },
+        {
+          "text": "Est la transformation de l'environnement par l'homme",
+          "is_true": true,
+          "explanation": "Elle englobe les transformations environnementales causées par les activités humaines, qu'elles soient intentionnelles ou non."
+        },
+        {
+          "text": "Est sans effet sur l'écosystème local",
+          "is_true": false,
+          "explanation": "L'anthropisation a des impacts significatifs sur les écosystèmes locaux, incluant la perte de biodiversité et la fragmentation des habitats."
+        },
+        {
+          "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+          "is_true": false,
+          "explanation": "Ce concept s'applique aux régulations dans l'agroécosystème, mais ne définit pas l'anthropisation dans son ensemble."
+        },
+        {
+          "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+          "is_true": false,
+          "explanation": "La propagation d'une espèce dans de nouveaux habitats est une colonisation, distincte de l'anthropisation."
+        },
+        {
+          "text": "Désigne généralement un processus naturel et spontané",
+          "is_true": false,
+          "explanation": "L'anthropisation est par définition liée aux activités humaines et non à des processus naturels."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "Une espèce invasive est :",
+      "answers": [
+        {
+          "text": "Nuisible à la biodiversité des écosystèmes dans lesquels elle s'est établie",
+          "is_true": true,
+          "explanation": "Une espèce invasive entre en compétition avec les espèces locales, modifiant souvent l'équilibre écologique et réduisant la biodiversité."
+        },
+        {
+          "text": "Est une espèce allochtone (non indigène), étrangère",
+          "is_true": true,
+          "explanation": "Une espèce invasive est introduite dans un écosystème où elle n'est pas naturellement présente, ce qui peut entraîner des perturbations."
+        },
+        {
+          "text": "Sans rapport avec le commerce international",
+          "is_true": false,
+          "explanation": "Le commerce international est souvent un facteur clé dans l'introduction d'espèces invasives, comme dans le transport de graines ou d'organismes."
+        },
+        {
+          "text": "Indispensable à la biodiversité locale",
+          "is_true": false,
+          "explanation": "Les espèces invasives réduisent généralement la biodiversité locale en supplantant les espèces indigènes."
+        },
+        {
+          "text": "Synonyme de mutualisme",
+          "is_true": false,
+          "explanation": "Le mutualisme est une interaction bénéfique entre espèces, ce qui est le contraire des impacts négatifs d'une espèce invasive."
+        },
+        {
+          "text": "Une espèce disparue",
+          "is_true": false,
+          "explanation": "Une espèce invasive est une espèce vivante et active dans un nouvel habitat, et non une espèce disparue."
+        },
+        {
+          "text": "Une espèce présente qu'à un seul endroit",
+          "is_true": false,
+          "explanation": "Les espèces invasives tendent à se propager largement, souvent au-delà des frontières géographiques initiales."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "Une espèce endémique :",
+      "answers": [
+        {
+          "text": "Est une espèce présente exclusivement dans une région géographique délimitée",
+          "is_true": true,
+          "explanation": "Une espèce endémique est propre à une zone géographique spécifique, et n'existe nulle part ailleurs naturellement."
+        },
+        {
+          "text": "Est une espèce disparue",
+          "is_true": false,
+          "explanation": "Une espèce endémique est vivante, mais limitée géographiquement. Une espèce disparue est une espèce qui n'existe plus."
+        },
+        {
+          "text": "N'est jamais une espèce protégée",
+          "is_true": false,
+          "explanation": "De nombreuses espèces endémiques sont protégées pour préserver leur habitat unique et éviter leur extinction."
+        },
+        {
+          "text": "Nuisible à la biodiversité des écosystèmes dans lesquels elle s'est établie",
+          "is_true": false,
+          "explanation": "Les espèces endémiques ne sont pas invasives ; elles font partie de l'équilibre naturel de leur habitat."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "Une aire de répartition :",
+      "answers": [
+        {
+          "text": "Est la zone délimitant la répartition géographique d'une espèce vivante",
+          "is_true": true,
+          "explanation": "Une aire de répartition représente l'étendue géographique où une espèce peut être trouvée naturellement."
+        },
+        {
+          "text": "Est une zone continue ou au contraire disjointe",
+          "is_true": true,
+          "explanation": "Les aires de répartition peuvent être continues (sans interruption) ou disjointes (fragmentées en plusieurs zones)."
+        },
+        {
+          "text": "Ne peut pas être impactée par le réchauffement climatique",
+          "is_true": false,
+          "explanation": "Le réchauffement climatique modifie les aires de répartition en poussant certaines espèces à migrer vers des zones plus adaptées."
+        },
+        {
+          "text": "Ne peut pas être disjointe",
+          "is_true": false,
+          "explanation": "Certaines espèces ont des aires de répartition disjointes, comme les populations séparées par des barrières géographiques."
+        },
+        {
+          "text": "Ne s'agrandissent ou ne se réduisent pas au cours du temps",
+          "is_true": false,
+          "explanation": "Les aires de répartition évoluent dans le temps, en réponse aux changements climatiques, aux activités humaines ou aux dynamiques écologiques."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "La niche écologique :",
+      "answers": [
+        {
+          "text": "Correspond au rôle de l'organisme dans le fonctionnement de l'écosystème, à sa spécialisation fonctionnelle.",
+          "is_true": true,
+          "explanation": "La niche écologique décrit le rôle précis d'une espèce dans son environnement, incluant son alimentation, son habitat, et ses interactions avec d'autres espèces."
+        },
+        {
+          "text": "Peut être partagée par deux espèces de manière durable",
+          "is_true": false,
+          "explanation": "Deux espèces ayant exactement la même niche écologique entreraient en compétition directe, ce qui les rend incapables de coexister à long terme (principe d'exclusion compétitive)."
+        },
+        {
+          "text": "Est une niche faite de matériaux recyclés",
+          "is_true": false,
+          "explanation": "Cela ne correspond pas au concept écologique. La niche écologique ne désigne pas un objet, mais le rôle et la place d'une espèce dans un écosystème."
+        },
+        {
+          "text": "Ne suffit jamais aux besoins d'une espèce",
+          "is_true": false,
+          "explanation": "Une niche écologique correspond précisément aux besoins d'une espèce pour survivre et se reproduire."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "La concurrence écologique :",
+      "answers": [
+        {
+          "text": "Est une rivalité entre deux espèces pour l'accès aux ressources du milieu",
+          "is_true": true,
+          "explanation": "La concurrence écologique survient lorsque des espèces se disputent les mêmes ressources limitées, telles que la nourriture, l'eau ou l'espace."
+        },
+        {
+          "text": "Peut être interspécifique ou intraspécifique",
+          "is_true": true,
+          "explanation": "La concurrence peut se produire entre différentes espèces (interspécifique) ou entre individus de la même espèce (intraspécifique)."
+        },
+        {
+          "text": "Correspond au rôle de l'organisme dans le fonctionnement de l'écosystème, à sa spécialisation fonctionnelle.",
+          "is_true": false,
+          "explanation": "Cette définition correspond à la niche écologique, et non à la concurrence écologique."
+        },
+        {
+          "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+          "is_true": false,
+          "explanation": "Cela décrit le processus de colonisation, qui est distinct de la concurrence écologique."
+        },
+        {
+          "text": "Est la concurrence entre deux entreprises écologiques",
+          "is_true": false,
+          "explanation": "La concurrence écologique s'applique aux organismes vivants dans un écosystème, et non à des entreprises humaines."
+        },
+        {
+          "text": "n'est jamais intra-spécifique",
+          "is_true": false,
+          "explanation": "La concurrence peut aussi se produire au sein d'une même espèce (intraspécifique), par exemple pour des partenaires ou des ressources."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "La symbiose :",
+      "answers": [
+        {
+          "text": "Est une association durable entre deux organismes vivants",
+          "is_true": true,
+          "explanation": "La symbiose est une interaction durable entre deux organismes, qui peut être bénéfique, neutre ou nuisible pour l'un ou l'autre."
+        },
+        {
+          "text": "Est toujours bénéfique pour au moins l'une des deux espèces",
+          "is_true": true,
+          "explanation": "Dans une symbiose, au moins une des deux espèces tire un avantage de la relation, comme dans le mutualisme ou le parasitisme."
+        },
+        {
+          "text": "Contient les relations de parasitisme",
+          "is_true": true,
+          "explanation": "Le parasitisme est une forme de symbiose où une espèce bénéficie au détriment de l'autre."
+        },
+        {
+          "text": "Contient les relations de commensalisme",
+          "is_true": true,
+          "explanation": "Le commensalisme est une forme de symbiose où une espèce bénéficie de la relation sans affecter l'autre."
+        },
+        {
+          "text": "Contient les relations de mutualisme",
+          "is_true": true,
+          "explanation": "Le mutualisme est une forme de symbiose où les deux espèces bénéficient de leur interaction."
+        },
+        {
+          "text": "Sous-entend souvent une relation mutualiste",
+          "is_true": true,
+          "explanation": "Le mutualisme est une des formes les plus répandues de symbiose, souvent citée en exemple."
+        },
+        {
+          "text": "Est en opposition avec le parasitisme",
+          "is_true": false,
+          "explanation": "Le parasitisme est une forme de symbiose, bien qu'il implique un déséquilibre entre les espèces en interaction."
+        },
+        {
+          "text": "Est toujours bénéfique pour l'hôte",
+          "is_true": false,
+          "explanation": "Dans le parasitisme, par exemple, la relation est bénéfique pour le parasite, mais nuisible pour l'hôte."
+        },
+        {
+          "text": "N'est jamais bénéfique pour l'hôte",
+          "is_true": false,
+          "explanation": "Le parasitisme et le commensalisme sont 2 formes de symbiose dont le premier est néfaste pour l'hôte, et neutre pour le second."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "Le parasitisme :",
+      "answers": [
+        {
+          "text": "Est une association durable entre deux organismes vivants",
+          "is_true": true,
+          "explanation": "Le parasitisme est une relation symbiotique durable dans laquelle un organisme (le parasite) vit aux dépens de l'autre (l'hôte)."
+        },
+        {
+          "text": "Est bénéfique pour le parasite et à un effet négatif pour l'hôte",
+          "is_true": true,
+          "explanation": "Le parasite tire des bénéfices de son hôte, souvent au détriment de la santé ou de la survie de celui-ci."
+        },
+        {
+          "text": "Est neutre pour l'hôte",
+          "is_true": false,
+          "explanation": "Dans le parasitisme, l'hôte subit des effets négatifs, contrairement au commensalisme, où il n'est pas affecté."
+        },
+        {
+          "text": "Est positif pour l'hôte",
+          "is_true": false,
+          "explanation": "Le parasitisme implique des effets nuisibles pour l'hôte, contrairement au mutualisme où les deux parties bénéficient de la relation."
+        },
+        {
+          "text": "Est négatif pour le parasite",
+          "is_true": false,
+          "explanation": "Le parasite bénéficie toujours de la relation, bien que des pressions évolutives puissent limiter son impact pour préserver son hôte."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "Le commensalisme :",
+      "answers": [
+        {
+          "text": "Est une association durable entre deux organismes vivants",
+          "is_true": true,
+          "explanation": "Le commensalisme est une forme de symbiose où deux organismes vivent en interaction durable."
+        },
+        {
+          "text": "Est neutre pour l'hôte",
+          "is_true": true,
+          "explanation": "Dans le commensalisme, l'hôte n'est ni aidé ni affecté par la relation, contrairement au parasitisme ou au mutualisme."
+        },
+        {
+          "text": "Est bénéfique pour le commensal",
+          "is_true": true,
+          "explanation": "Le commensal tire un bénéfice de l'hôte, par exemple en se nourrissant de ses restes ou en utilisant son abri."
+        },
+        {
+          "text": "Est négatif pour l'hôte",
+          "is_true": false,
+          "explanation": "Le commensalisme n'a pas d'effet négatif sur l'hôte, ce qui le distingue du parasitisme."
+        },
+        {
+          "text": "Est positif pour l'hôte",
+          "is_true": false,
+          "explanation": "Dans le commensalisme, l'hôte n'est pas affecté positivement, contrairement au mutualisme où les deux parties bénéficient."
+        },
+        {
+          "text": "Est négatif pour le commensal",
+          "is_true": false,
+          "explanation": "Le commensal bénéficie toujours de la relation, sans effet néfaste pour lui-même."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Équilibres et déséquilibres écologiques"
+      ],
+      "question": "Le mutualisme :",
+      "answers": [
+        {
+          "text": "Est une association durable entre deux organismes vivants",
+          "is_true": true,
+          "explanation": "Le mutualisme est une interaction durable où deux organismes coexistent et bénéficient mutuellement de leur relation."
+        },
+        {
+          "text": "Est bénéfique pour les deux espèces",
+          "is_true": true,
+          "explanation": "Dans une relation mutualiste, les deux organismes impliqués tirent des avantages, comme le partage de ressources ou une protection mutuelle."
+        },
+        {
+          "text": "Est neutre pour l'hôte",
+          "is_true": false,
+          "explanation": "Le mutualisme implique que les deux parties bénéficient de l'interaction, ce qui n'est pas neutre pour l'hôte."
+        },
+        {
+          "text": "Est négatif pour l'hôte",
+          "is_true": false,
+          "explanation": "Le mutualisme est toujours positif pour les deux partenaires impliqués, contrairement au parasitisme qui peut nuire à l'hôte."
+        },
+        {
+          "text": "Ne profite à aucune des deux espèces",
+          "is_true": false,
+          "explanation": "Le mutualisme est défini par les avantages qu'il procure aux deux espèces impliquées, ce qui le distingue des relations neutres."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Biodiversité et écosystème"
+      ],
+      "question": "La Biocénose :",
+      "answers": [
+        {
+          "text": "Est l'ensemble des êtres vivants dans un milieu donné.",
+          "is_true": true,
+          "explanation": "La biocénose désigne l'ensemble des populations d'organismes vivants qui interagissent dans un même milieu naturel."
+        },
+        {
+          "text": "Et le biotope forment un écosystème",
+          "is_true": true,
+          "explanation": "L'interaction entre la biocénose (êtres vivants) et le biotope (milieu physique) constitue un écosystème."
+        },
+        {
+          "text": "Est l'ensemble des êtres vivants coexistant dans un espace écologique donné, plus leurs organisations et interactions.",
+          "is_true": true,
+          "explanation": "Cette définition approfondie de la biocénose inclut également les interactions entre les êtres vivants qui composent un écosystème."
+        },
+        {
+          "text": "Est synonyme de biocénose",
+          "is_true": false,
+          "explanation": "Ce choix est redondant et ne constitue pas une réponse pertinente, car il ne fournit aucune information nouvelle."
+        },
+        {
+          "text": "Est synonyme d'écosystème",
+          "is_true": false,
+          "explanation": "La biocénose est une composante de l'écosystème, mais l'écosystème inclut aussi le biotope, c'est-à-dire le milieu physique."
+        },
+        {
+          "text": "N'est pas en interaction avec la biocénose",
+          "is_true": false,
+          "explanation": "La biocénose est définie par ses interactions internes entre les espèces, ainsi qu'avec le biotope environnant."
+        },
+        {
+          "text": "Est un milieu qui héberge un ensemble de formes de vie",
+          "is_true": false,
+          "explanation": "Cette définition correspond au biotope, qui désigne le milieu physique et chimique d'un écosystème."
+        },
+        {
+          "text": "Est un lieu de vie défini par des caractéristiques physiques et chimiques déterminées, relativement uniformes",
+          "is_true": false,
+          "explanation": "Cette description s'applique au biotope, et non à la biocénose, qui regroupe les êtres vivants du milieu."
+        },
+        {
+          "text": "Est la transformation de l'environnement par l'homme",
+          "is_true": false,
+          "explanation": "La transformation de l'environnement par l'homme correspond à l'anthropisation, et non à la biocénose."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Biodiversité et écosystème"
+      ],
+      "question": "La biodiversité :",
+      "answers": [
+        {
+          "text": "Désigne la variété des formes de vie sur la Terre",
+          "is_true": true,
+          "explanation": "La biodiversité regroupe l'ensemble des espèces animales, végétales, fongiques et microbiennes, ainsi que leurs interactions."
+        },
+        {
+          "text": "Est impactée par le réchauffement climatique",
+          "is_true": true,
+          "explanation": "Le réchauffement climatique modifie les habitats, affectant ainsi les espèces et réduisant souvent la biodiversité."
+        },
+        {
+          "text": "Est impactée par les activités humaines",
+          "is_true": true,
+          "explanation": "Les activités humaines, telles que la déforestation, la pollution ou l'urbanisation, contribuent à l'érosion de la biodiversité."
+        },
+        {
+          "text": "N'est pas impactée par le réchauffement climatique",
+          "is_true": false,
+          "explanation": "Le réchauffement climatique a des conséquences importantes sur la biodiversité, comme la perte d'espèces et la migration de populations."
+        },
+        {
+          "text": "Désigne un milieu qui héberge la vie",
+          "is_true": false,
+          "explanation": "Cette définition correspond au biotope, alors que la biodiversité se réfère aux organismes vivants et à leurs interactions."
+        },
+        {
+          "text": "N'est pas impactée par les activités humaines",
+          "is_true": false,
+          "explanation": "Les activités humaines sont un facteur majeur de déclin de la biodiversité, par exemple à cause de la destruction des habitats naturels."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Biodiversité et écosystème"
+      ],
+      "question": "Un écosystème :",
+      "answers": [
+        {
+          "text": "Est formé par l'interaction de la biocénose avec son biotope",
+          "is_true": true,
+          "explanation": "Un écosystème est constitué des interactions entre la biocénose (êtres vivants) et le biotope (milieu physique)."
+        },
+        {
+          "text": "Comprend un ensemble d'êtres vivants en interaction avec leur environnement",
+          "is_true": true,
+          "explanation": "L'écosystème regroupe les êtres vivants d'une zone et leurs relations avec le milieu physique et chimique environnant."
+        },
+        {
+          "text": "Transformé par l'homme pour son agriculture, s'appelle un agrosystème",
+          "is_true": true,
+          "explanation": "Un agrosystème est un type particulier d'écosystème modifié par l'homme pour optimiser la production agricole."
+        },
+        {
+          "text": "Est la transformation de l'environnement par l'homme",
+          "is_true": false,
+          "explanation": "La transformation de l'environnement par l'homme est appelée anthropisation, et non écosystème."
+        },
+        {
+          "text": "N'est jamais impacté par le réchauffement climatique",
+          "is_true": false,
+          "explanation": "Les écosystèmes sont directement affectés par le réchauffement climatique, qui modifie les interactions entre espèces et leur environnement."
+        },
+        {
+          "text": "Exclut l'humain de sa définition",
+          "is_true": false,
+          "explanation": "Les humains font partie des écosystèmes et interagissent avec les autres êtres vivants et le biotope."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Biodiversité et écosystème"
+      ],
+      "question": "Un corridor biologique (ou biocorridor / corridor écologique) :",
+      "answers": [
+        {
+          "text": "Est un milieu reliant deux habitats vitaux d'une ou plusieurs espèces",
+          "is_true": true,
+          "explanation": "Un corridor biologique permet aux espèces de se déplacer entre des habitats isolés, favorisant leur survie et leur reproduction."
+        },
+        {
+          "text": "Peut être d'origine naturelle ou humaine",
+          "is_true": true,
+          "explanation": "Les corridors peuvent être des éléments naturels (forêts, rivières) ou créés par l'homme (ponts écologiques)."
+        },
+        {
+          "text": "Permet la circulation des espèces animales ou végétales",
+          "is_true": true,
+          "explanation": "Un corridor écologique facilite le déplacement des organismes, réduisant l'impact de la fragmentation des habitats."
+        },
+        {
+          "text": "Permet de lutter contre la fragmentation écologique",
+          "is_true": true,
+          "explanation": "En connectant des habitats fragmentés, les corridors aident à maintenir la diversité génétique et écologique."
+        },
+        {
+          "text": "Désigne souvent une route",
+          "is_true": false,
+          "explanation": "Un corridor biologique est destiné à la faune et à la flore, contrairement à une route qui peut fragmenter les habitats."
+        },
+        {
+          "text": "Désigne souvent une ligne à haute tension",
+          "is_true": false,
+          "explanation": "Les lignes à haute tension sont des infrastructures humaines et ne servent pas de corridors biologiques."
+        },
+        {
+          "text": "Empêche les espèces de circuler",
+          "is_true": false,
+          "explanation": "Au contraire, un corridor écologique est conçu pour faciliter le déplacement des espèces entre habitats."
+        },
+        {
+          "text": "Est toujours d'origine naturelle",
+          "is_true": false,
+          "explanation": "Certains corridors sont artificiels, comme les ponts pour la faune ou les zones reboisées."
+        },
+        {
+          "text": "Est toujours d'origine humaine",
+          "is_true": false,
+          "explanation": "De nombreux corridors sont naturels, comme les rivières ou les forêts qui relient différents habitats."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Biodiversité et écosystème"
+      ],
+      "question": "La fragmentation écologique :",
+      "answers": [
+        {
+          "text": "Peut provenir d'une route",
+          "is_true": true,
+          "explanation": "Les routes peuvent isoler des habitats, empêchant les déplacements des espèces et fragmentant les populations."
+        },
+        {
+          "text": "Peut provenir d'une ligne à haute tension",
+          "is_true": true,
+          "explanation": "Les infrastructures humaines comme les lignes à haute tension fragmentent les habitats naturels, créant des barrières pour les espèces."
+        },
+        {
+          "text": "Peut être d'origine naturelle ou humaine",
+          "is_true": true,
+          "explanation": "La fragmentation peut résulter d'éléments naturels (montagnes, rivières) ou d'activités humaines (routes, agriculture)."
+        },
+        {
+          "text": "Peut provenir d'un obstacle naturel (montagne, rivière, etc.)",
+          "is_true": true,
+          "explanation": "Les obstacles naturels peuvent aussi fragmenter les habitats, limitant les déplacements des espèces."
+        },
+        {
+          "text": "Est une cause de régression de la biodiversité",
+          "is_true": true,
+          "explanation": "La fragmentation réduit la taille des habitats, augmentant leur vulnérabilité et diminuant la biodiversité."
+        },
+        {
+          "text": "Est toujours d'origine humaine",
+          "is_true": false,
+          "explanation": "Elle peut aussi être due à des phénomènes naturels, comme l'apparition de rivières ou d'autres barrières géographiques."
+        },
+        {
+          "text": "Est toujours d'origine naturelle",
+          "is_true": false,
+          "explanation": "La fragmentation due aux infrastructures humaines est une cause majeure de perte de biodiversité."
+        },
+        {
+          "text": "Permet la circulation des espèces entre 2 habitats vitaux",
+          "is_true": false,
+          "explanation": "La fragmentation limite la circulation des espèces, contrairement aux corridors écologiques qui les facilitent."
+        },
+        {
+          "text": "Est souvent utile pour la survie d'une espèce",
+          "is_true": false,
+          "explanation": "La fragmentation est néfaste car elle isole les populations, réduisant les échanges génétiques et augmentant le risque d'extinction."
+        },
+        {
+          "text": "Favorise toujours la biodiversité",
+          "is_true": false,
+          "explanation": "La fragmentation réduit généralement la biodiversité en créant des habitats plus petits et isolés."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Biodiversité et écosystème"
+      ],
+      "question": "Le domaine vital :",
+      "answers": [
+        {
+          "text": "Est l'aire vitale suffisante d'un animal.",
+          "is_true": true,
+          "explanation": "Le domaine vital représente l'espace nécessaire à un animal pour accomplir ses activités essentielles comme se nourrir, se reproduire et se protéger."
+        },
+        {
+          "text": "Se définit pour un individu ou une population donnée",
+          "is_true": true,
+          "explanation": "Le domaine vital peut être calculé à l'échelle d'un individu ou d'une population, en fonction des besoins et des comportements spécifiques."
+        },
+        {
+          "text": "Se définit toujours pour une ou plusieurs espèces données",
+          "is_true": false,
+          "explanation": "Le domaine vital peut concerner un individu ou une population sans toujours inclure plusieurs espèces."
+        },
+        {
+          "text": "Est toujours plus grand qu'une aire de répartition",
+          "is_true": false,
+          "explanation": "Le domaine vital d'un individu est souvent plus petit que l'aire de répartition, qui englobe tous les lieux où vit l'espèce."
+        },
+        {
+          "text": "Est toujours une aire disjointe",
+          "is_true": false,
+          "explanation": "Le domaine vital peut être continu ou fragmenté selon l'accès aux ressources et l'environnement de l'animal."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Biodiversité et écosystème"
+      ],
+      "question": "Le climax :",
+      "answers": [
+        {
+          "text": "Est un état théorique final et stable",
+          "is_true": true,
+          "explanation": "Le climax est un état écologique où un écosystème atteint un équilibre stable après une longue période de succession."
+        },
+        {
+          "text": "Est un système en constante évolution",
+          "is_true": false,
+          "explanation": "Un système en constante évolution ne représente pas le climax, qui est une phase de stabilité relative."
+        },
+        {
+          "text": "Désigne un micro-climat local",
+          "is_true": false,
+          "explanation": "Le climax ne se réfère pas à un micro-climat mais à l'état stable d'un écosystème."
+        },
+        {
+          "text": "Est l'état actuel de tous les écosystèmes",
+          "is_true": false,
+          "explanation": "Tous les écosystèmes ne sont pas au stade de climax ; certains sont encore en cours de succession écologique ou perturbés."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Quelle est la convention européenne qui a favorisé le retour des grands prédateurs en France ?",
+      "answers": [
+        {
+          "text": "La convention de Berne (de 1979)",
+          "is_true": true,
+          "explanation": "La convention de Berne protège les espèces animales et leurs habitats naturels, favorisant ainsi le retour des grands prédateurs comme le loup ou le lynx."
+        },
+        {
+          "text": "La convention de Bonn (de 1952)",
+          "is_true": false,
+          "explanation": "La convention de Bonn concerne les espèces migratrices, et non directement le retour des grands prédateurs."
+        },
+        {
+          "text": "La convention de Paris (de 1992)",
+          "is_true": false,
+          "explanation": "La convention de Paris est principalement connue pour ses objectifs climatiques, sans lien direct avec les grands prédateurs."
+        },
+        {
+          "text": "La convention de Rome (de 1980)",
+          "is_true": false,
+          "explanation": "La convention de Rome ne concerne pas les espèces animales ou leurs habitats naturels."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Quel est le nom du plan qui encadre la gestion du loup en France ?",
+      "answers": [
+        {
+          "text": "Le Plan National d’Actions",
+          "is_true": true,
+          "explanation": "Le Plan National d'Actions encadre les mesures de protection, de gestion et de suivi du loup en France."
+        },
+        {
+          "text": "Le Plan National Loup",
+          "is_true": false,
+          "explanation": "Bien que cette appellation semble logique, le plan officiel est le Plan National d'Actions et non le Plan National Loup."
+        },
+        {
+          "text": "Le Plan National de Prévention",
+          "is_true": false,
+          "explanation": "Cette appellation est incorrecte pour la gestion du loup en France."
+        },
+        {
+          "text": "Le Plan National de Protection",
+          "is_true": false,
+          "explanation": "Le Plan National de Protection n'est pas le terme officiel pour la gestion du loup."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Quelle est la période générale d’ouverture de la chasse en France ?",
+      "answers": [
+        {
+          "text": "De septembre à février",
+          "is_true": true,
+          "explanation": "La chasse est généralement autorisée en France entre septembre et février, période correspondant à la régulation de nombreuses espèces."
+        },
+        {
+          "text": "D'octobre à mars",
+          "is_true": false,
+          "explanation": "La période de chasse débute en septembre, et non en octobre, bien que certaines espèces spécifiques puissent varier légèrement."
+        },
+        {
+          "text": "D'août à février",
+          "is_true": false,
+          "explanation": "La chasse générale n'inclut pas le mois d'août, bien que certaines pratiques spécifiques puissent débuter avant septembre."
+        },
+        {
+          "text": "De septembre à avril",
+          "is_true": false,
+          "explanation": "La chasse générale se termine en février ; l'extension à avril concernerait des cas exceptionnels ou spécifiques à certaines espèces."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Le permis de chasse :",
+      "answers": [
+        {
+          "text": "Peut être passé à partir de 16 ans révolu",
+          "is_true": true,
+          "explanation": "Le permis de chasse est accessible dès 16 ans révolus, âge minimum légal pour commencer cette activité."
+        },
+        {
+          "text": "Est obligatoire pour chasser sur un territoire",
+          "is_true": true,
+          "explanation": "La possession d'un permis valide est une exigence légale pour toute activité de chasse en France."
+        },
+        {
+          "text": "Doit être couplé à une assurance pour pouvoir chasser",
+          "is_true": true,
+          "explanation": "Une assurance est obligatoire pour couvrir les risques liés à l'activité de chasse."
+        },
+        {
+          "text": "N'est pas obligatoire pour chasser à l'arc",
+          "is_true": false,
+          "explanation": "Le permis de chasse est requis quelle que soit la méthode utilisée, y compris la chasse à l'arc."
+        },
+        {
+          "text": "Ne peut pas être passé avant 18 ans révolu",
+          "is_true": false,
+          "explanation": "Le permis peut être obtenu dès 16 ans, et non 18 ans."
+        },
+        {
+          "text": "Donne automatiquement droit à chasser le chamois",
+          "is_true": false,
+          "explanation": "Le permis de chasse ne garantit pas l'autorisation de chasser toutes les espèces, certaines nécessitant des autorisations spécifiques."
+        },
+        {
+          "text": "Permet de chasser toutes les espèces de montagne",
+          "is_true": false,
+          "explanation": "Certaines espèces de montagne sont protégées ou nécessitent des plans de gestion spécifiques pour être chassées légalement."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Qu’est-ce qu’une ACCA ?",
+      "answers": [
+        {
+          "text": "Une Association Communale de Chasse Agréée",
+          "is_true": true,
+          "explanation": "Une ACCA est une organisation regroupant des chasseurs au niveau communal pour gérer durablement les ressources cynégétiques."
+        },
+        {
+          "text": "Une Association Communautaire de Chasse Autorisée",
+          "is_true": false,
+          "explanation": "Ce terme est incorrect ; ACCA signifie Association Communale de Chasse Agréée."
+        },
+        {
+          "text": "Une Association Cantonale de Chasse Agricole",
+          "is_true": false,
+          "explanation": "Une ACCA ne concerne pas spécifiquement les chasseurs agricoles ou cantonaux, mais les chasseurs communaux."
+        },
+        {
+          "text": "Une Association Coopérative de Chasse Amicale",
+          "is_true": false,
+          "explanation": "Une ACCA n'est pas basée sur un concept de chasse amicale, mais sur une gestion réglementée et durable au niveau communal."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "AMM",
+        "Probatoire AMM",
+        "Le milieu montagnard",
+        "Écologie générale",
+        "Rôles et réglementations de la chasse et des grands prédateurs"
+      ],
+      "question": "Je suis une espèce protégée :",
+      "answers": [
+        {
+          "text": "Écureuil",
+          "is_true": true,
+          "explanation": "L'écureuil fait partie des espèces protégées en raison de sa vulnérabilité et de son rôle dans les écosystèmes forestiers."
+        },
+        {
+          "text": "Ours",
+          "is_true": true,
+          "explanation": "L'ours est une espèce protégée en France, notamment le plantigrade des Pyrénées, pour préserver ses populations menacées."
+        },
+        {
+          "text": "Vautour",
+          "is_true": true,
+          "explanation": "Les vautours sont protégés pour leur rôle écologique crucial en tant que charognards naturels."
+        },
+        {
+          "text": "Loutre",
+          "is_true": true,
+          "explanation": "La loutre est protégée en raison de la dégradation de ses habitats aquatiques et de son statut vulnérable."
+        },
+        {
+          "text": "Sanglier",
+          "is_true": false,
+          "explanation": "Le sanglier n'est pas protégé et est souvent chassé en France pour réguler sa population."
+        },
+        {
+          "text": "Chamois",
+          "is_true": false,
+          "explanation": "Le chamois n'est pas protégé et sa chasse est autorisée sous certaines régulations spécifiques."
+        },
+        {
+          "text": "Cerf",
+          "is_true": false,
+          "explanation": "Le cerf n'est pas une espèce protégée et est souvent chassé dans le cadre de la gestion des populations."
+        }
+      ],
+      "description": "",
+      "image_path": null,
+      "references": [
+        {
+          "reference_type": "url",
+          "url": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+          "description": "Equilibres et déséquilibres écologiques"
+        }
+      ]
+    }
+  ]
+}        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            
+        
+        
+        

@@ -1,0 +1,1128 @@
+{
+    "mcq_models": [
+        {
+            "topics": [
+                "AMM/géologie/roches"
+            ],
+            "question": "Le grès est : ",
+            "answers": [
+                {
+                    "text": "Une roche sédimentaire d'origine détritique",
+                    "is_true": true
+                },
+                {
+                    "text": "Issue de la sédimentation de grains de sable",
+                    "is_true": true
+                },
+                {
+                    "text": "Une roche magmatique plutonique",
+                    "is_true": false
+                },
+                {
+                    "text": "Une roche métamorphique",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est pas une roche",
+                    "is_true": false
+                }
+            ],
+            "description": "roche sédimentaire détritique (composée de débris issus de l’érosion d’autres roches), issue de l’agrégation et de la cimentation de grains de sable.  Il peut s’agir d’une roche cohérente et dure. Ces grains sont souvent composés de silice (quartz, et parfois même de grains de feldspath et de micas noirs), mais ils peuvent avoir d’autres compositions.",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/météorologie"
+            ],
+            "question": "Si l'altitude sur mon altimètre barométrique diminue, cela peut signifier que : ",
+            "answers": [
+                {
+                    "text": "La pression a augmenté",
+                    "is_true": true
+                },
+                {
+                    "text": "A altitude constante, cela est annonciateur de beau temps",
+                    "is_true": true
+                },
+                {
+                    "text": "Vous êtes descendus en altitude",
+                    "is_true": true
+                },
+                {
+                    "text": "La pression a diminué",
+                    "is_true": false
+                },
+                {
+                    "text": "A altitude constante, cela est annonciateur de mauvais temps",
+                    "is_true": false
+                },
+                {
+                    "text": "Vous êtes montés en altitude",
+                    "is_true": false
+                }
+            ],
+            "description": "L'altimètre barométrique prends en compte la pression de l'atmosphère afin de calculer l'altitude, de manière inversement proportionnelle. Cela signifie que si l'altitude sur le baromètre diminue, la pression augmente alors, et inversement.",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/météorologie"
+            ],
+            "question": "Si l'altitude sur mon altimètre barométrique augmente, cela peut signifier que : ",
+            "answers": [
+                {
+                    "text": "La pression a diminué",
+                    "is_true": true
+                },
+                {
+                    "text": "A altitude constante, cela est annonciateur de mauvais temps",
+                    "is_true": true
+                },
+                {
+                    "text": "Vous êtes montés en altitude",
+                    "is_true": true
+                },
+                {
+                    "text": "La pression a augmenté",
+                    "is_true": false
+                },
+                {
+                    "text": "A altitude constante, cela est annonciateur de beau temps",
+                    "is_true": false
+                },
+                {
+                    "text": "Vous êtes descendus en altitude",
+                    "is_true": false
+                }
+            ],
+            "description": "L'altimètre barométrique prends en compte la pression de l'atmosphère afin de calculer l'altitude, de manière inversement proportionnelle. Cela signifie que si l'altitude sur le baromètre diminue, la pression augmente alors, et inversement.",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques",
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "Le biotope : ",
+            "answers": [
+                {
+                    "text": "Est un milieu qui héberge un ensemble de formes de vie composant la biocénose",
+                    "is_true": true
+                },
+                {
+                    "text": "Est un lieu de vie défini par des caractéristiques physiques et chimiques déterminées, relativement uniformes",
+                    "is_true": true
+                },
+                {
+                    "text": "Et la biocénose forment un écosystème",
+                    "is_true": true
+                },
+                {
+                    "text": "Est en interaction constante avec la biocénose",
+                    "is_true": true
+                },
+                {
+                    "text": "Est synonyme de biocénose",
+                    "is_true": false
+                },
+                {
+                    "text": "Est synonyme d'écosystème",
+                    "is_true": false
+                },
+                {
+                    "text": "Est l'ensemble des êtres vivants dans un milieu donné.",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est pas en interaction avec la biocénose",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "Une régulation : ",
+            "answers": [
+                {
+                    "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+                    "is_true": true
+                },
+                {
+                    "text": "Est une auto-organisation de l’écosystème permettant, en réponse à des perturbations, de conserver l’état d’équilibre antérieur ou d’adapter le système en l’amenant vers un nouvel état d’équilibre.",
+                    "is_true": true
+                },
+                {
+                    "text": "Peut être induite, ou spontanée",
+                    "is_true": true
+                },
+                {
+                    "text": "N'est jamais provoquée par l'Homme",
+                    "is_true": false
+                },
+                {
+                    "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats",
+                    "is_true": false
+                },
+                {
+                    "text": "Est le processus par lequel des nutriments s'accumulent dans un milieu ou un habitat (terrestre ou aquatique).",
+                    "is_true": false
+                },
+                {
+                    "text": "Est souvent synonyme de mutualisme",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "La colonisation : ",
+            "answers": [
+                {
+                    "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+                    "is_true": true
+                },
+                {
+                    "text": "Désigne généralement un processus naturel et spontané",
+                    "is_true": true
+                },
+                {
+                    "text": "Est souvent synonyme de parasitisme",
+                    "is_true": false
+                },
+                {
+                    "text": "Est le processus par lequel des nutriments s'accumulent dans un milieu ou un habitat (terrestre ou aquatique).",
+                    "is_true": false
+                },
+                {
+                    "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+                    "is_true": false
+                },
+                {
+                    "text": "Est à proprement parler une artificialisation",
+                    "is_true": false
+                },
+                {
+                    "text": "Est la transformation de l'environnement par l'homme",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "L'eutrophisation : ",
+            "answers": [
+                {
+                    "text": "Est le processus par lequel des nutriments s'accumulent dans un milieu ou un habitat (terrestre ou aquatique).",
+                    "is_true": true
+                },
+                {
+                    "text": "Est souvent en lien avec des activités humaines (anthropisation)",
+                    "is_true": true
+                },
+                {
+                    "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+                    "is_true": false
+                },
+                {
+                    "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+                    "is_true": false
+                },
+                {
+                    "text": "Est sans effet sur l'écosystème local",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est jamais causé par les activités humaines",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "L'anthropisation : ",
+            "answers": [
+                {
+                    "text": "Est synonyme d'activité humaine",
+                    "is_true": true
+                },
+                {
+                    "text": "Est à proprement parler une artificialisation",
+                    "is_true": true
+                },
+                {
+                    "text": "Est la transformation de l'environnement par l'homme",
+                    "is_true": true
+                },
+                {
+                    "text": "Est sans effet sur l'écosystème local",
+                    "is_true": false
+                },
+                {
+                    "text": "Est un ensemble des interactions et des transformations opérant au sein des systèmes biotechniques de l’agroécosystème",
+                    "is_true": false
+                },
+                {
+                    "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+                    "is_true": false
+                },
+                {
+                    "text": "Désigne généralement un processus naturel et spontané",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "Une espèce invasive est : ",
+            "answers": [
+                {
+                    "text": "Nuisible à la biodiviversité des écosystèmes dans laquelle elle s'est établie",
+                    "is_true": true
+                },
+                {
+                    "text": "Est une espèce allochtone (non indigène), étrangère",
+                    "is_true": true
+                },
+                {
+                    "text": "Sans rapport avec le commerce international",
+                    "is_true": false
+                },
+                {
+                    "text": "Indispensable à la biodiversité locale",
+                    "is_true": false
+                },
+                {
+                    "text": "Synonyme de mutualisme",
+                    "is_true": false
+                },
+                {
+                    "text": "Une espèce disparue",
+                    "is_true": false
+                },
+                {
+                    "text": "Une espèce présente qu'à un seul endroit",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "Une espèce endémique : ",
+            "answers": [
+                {
+                    "text": "Est une espèce presente exclusivement dans une région géographique délimitée",
+                    "is_true": true
+                },
+                {
+                    "text": "Est Une espèce disparue",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est jamais une espèce protégée",
+                    "is_true": false
+                },
+                {
+                    "text": "Est une espèce disparue",
+                    "is_true": false
+                },
+                {
+                    "text": "Nuisible à la biodiviversité des écosystèmes dans laquelle elle s'est établie",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques",
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "Une aire de répartition : ",
+            "answers": [
+                {
+                    "text": "Est la zone délimitant la répartition géographique d'une espèce vivante",
+                    "is_true": true
+                },
+                {
+                    "text": "Est une zone continue ou au contraire disjointe",
+                    "is_true": true
+                },
+                {
+                    "text": "Ne peut pas être impactée par le réchauffement climatique",
+                    "is_true": false
+                },
+                {
+                    "text": "Ne peut pas être disjointe",
+                    "is_true": false
+                },
+                {
+                    "text": "Ne s'agrandissent ou ne se réduisent pas au cours du temps",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "La niche écologique : ",
+            "answers": [
+                {
+                    "text": "Correspond au rôle de l'organisme dans le fonctionnement de l'écosystème, à sa spécialisation fonctionnelle.",
+                    "is_true": true
+                },
+                {
+                    "text": "Peut être partagée par deux espèces de manière durable",
+                    "is_true": false
+                },
+                {
+                    "text": "Est une niche fait de matériaux recyclés",
+                    "is_true": false
+                },
+                {
+                    "text": "Ne suffit jamais aux besoins d'une espèce",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "La concurrence écologique : ",
+            "answers": [
+                {
+                    "text": "Est une rivalité entre deux espèces pour l'accès aux ressources du milieu",
+                    "is_true": true
+                },
+                {
+                    "text": "Peut être interspécifique ou intraspécifique",
+                    "is_true": true
+                },
+                {
+                    "text": "Correspond au rôle de l'organisme dans le fonctionnement de l'écosystème, à sa spécialisation fonctionnelle.",
+                    "is_true": false
+                },
+                {
+                    "text": "Est le processus dans lequel une espèce se propage dans de nouveaux habitats.",
+                    "is_true": false
+                },
+                {
+                    "text": "Est la concurrence entre deux entreprises écologiques",
+                    "is_true": false
+                },
+                {
+                    "text": "n'est jamais intra-spécifique",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "La symbiose",
+            "answers": [
+                {
+                    "text": "Est une association durable entre deux organismes vivants",
+                    "is_true": true
+                },
+                {
+                    "text": "Est toujours ",
+                    "is_true": true
+                },
+                {
+                    "text": "Contient les relations de parasitisme",
+                    "is_true": true
+                },
+                {
+                    "text": "Contient les relations de commensalisme",
+                    "is_true": true
+                },
+                {
+                    "text": "Contient les relations de mutalisme",
+                    "is_true": true
+                },
+                {
+                    "text": "Sous-entend souvent une relation mutualiste",
+                    "is_true": true
+                },
+                {
+                    "text": "Est toujours bénéfique pour au moins l'une des deux espèces",
+                    "is_true": true
+                },
+                {
+                    "text": "Est en opposition avec le parasitisme",
+                    "is_true": false
+                },
+                {
+                    "text": "Est en opposition avec le commensalisme",
+                    "is_true": false
+                },
+                {
+                    "text": "Est en opposition avec le mutualisme",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est jamais bénéfique pour l'hôte",
+                    "is_true": false
+                },
+                {
+                    "text": "Est toujours bénéfique pour l'hôte",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "Le parasitisme",
+            "answers": [
+                {
+                    "text": "Est une association durable entre deux organismes vivants",
+                    "is_true": true
+                },
+                {
+                    "text": "Est bénéfique pour le parasite et à un effet négatif pour l'hôte",
+                    "is_true": true
+                },
+                {
+                    "text": "Est neutre pour l'hôte",
+                    "is_true": false
+                },
+                {
+                    "text": "Est positif pour l'hôte",
+                    "is_true": false
+                },
+                {
+                    "text": "Est négatif pour le parasite",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "Le commensalisme : ",
+            "answers": [
+                {
+                    "text": "Est une association durable entre deux organismes vivants",
+                    "is_true": true
+                },
+                {
+                    "text": "Est neutre pour l'hôte",
+                    "is_true": true
+                },
+                {
+                    "text": "Est bénéfique pour le commensal",
+                    "is_true": true
+                },
+                {
+                    "text": "Est négatif pour l'hôte",
+                    "is_true": false
+                },
+                {
+                    "text": "Est positif pour l'hôte",
+                    "is_true": false
+                },
+                {
+                    "text": "Est négatif pour le commensal",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Équilibres et déséquilibres écologiques"
+            ],
+            "question": "Le mutualisme : ",
+            "answers": [
+                {
+                    "text": "Est une association durable entre deux organismes vivants",
+                    "is_true": true
+                },
+                {
+                    "text": "Est bénéfique pour les deux espèces",
+                    "is_true": true
+                },
+                {
+                    "text": "Est neutre pour l'hôte",
+                    "is_true": false
+                },
+                {
+                    "text": "Est négatif pour l'hôte",
+                    "is_true": false
+                },
+                {
+                    "text": "Ne profite a aucune des deux espèces",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_déséquilibres_écologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "La Biocénose",
+            "answers": [
+                {
+                    "text": "Est l'ensemble des êtres vivants dans un milieu donné.",
+                    "is_true": true
+                },
+                {
+                    "text": "Et le biotope forment un écosystème",
+                    "is_true": true
+                },
+                {
+                    "text": "est l'ensemble des êtres vivants coexistant dans un espace écologique donné, plus leurs organisations et interactions.",
+                    "is_true": true
+                },
+                {
+                    "text": "Est synonyme de biocénose",
+                    "is_true": false
+                },
+                {
+                    "text": "Est synonyme d'écosystème",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est pas en interaction avec la biocénose",
+                    "is_true": false
+                },
+                {
+                    "text": "Est un milieu qui héberge un ensemble de formes de vie",
+                    "is_true": false
+                },
+                {
+                    "text": "Est un lieu de vie défini par des caractéristiques physiques et chimiques déterminées, relativement uniformes",
+                    "is_true": false
+                },
+                {
+                    "text": "Est la transformation de l'environnement par l'homme",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Equilibres_et_d%C3%A9s%C3%A9quilibres_%C3%A9cologiques",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "La biodiversité",
+            "answers": [
+                {
+                    "text": "Désigne la variété des formes de vie sur la Terre",
+                    "is_true": true
+                },
+                {
+                    "text": "Est impactée par le réchauffement climatique",
+                    "is_true": true
+                },
+                {
+                    "text": "Est impactée par les activités humaines",
+                    "is_true": true
+                },
+                {
+                    "text": "N'est pas impactée par le réchauffement climatique",
+                    "is_true": false
+                },
+                {
+                    "text": "Désigne un milieu qui héberge la vie",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est pas impacté par les activités humaines",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "Un écosystème : ",
+            "answers": [
+                {
+                    "text": "Est formé par l'interaction du la biocénose avec son biotope",
+                    "is_true": true
+                },
+                {
+                    "text": "Comprends un ensemble d'être vivants en interaction avec leur environnement",
+                    "is_true": true
+                },
+                {
+                    "text": "transformé par l'homme pour son agriculture, s'appelle un agrosystème",
+                    "is_true": true
+                },
+                {
+                    "text": "Est la transformation de l'environnement par l'homme",
+                    "is_true": false
+                },
+                {
+                    "text": "N'est jamais impactée par le réchauffement climatique",
+                    "is_true": false
+                },
+                {
+                    "text": "Exclu l'humain de sa définition.",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "Un corridor biologique (ou biocorridor / corridor écologique)",
+            "answers": [
+                {
+                    "text": "Est un milieu reliant deux habitats vitaux d'une ou plusieurs espèces",
+                    "is_true": true
+                },
+                {
+                    "text": "Peuvent être d'origine naturelle ou humaine",
+                    "is_true": true
+                },
+                {
+                    "text": "Permet la circulation des espèces animales ou végétales",
+                    "is_true": true
+                },
+                {
+                    "text": "Permet de lutter contre la fragmentation écologique",
+                    "is_true": true
+                },
+                {
+                    "text": "Désigne souvent une route",
+                    "is_true": false
+                },
+                {
+                    "text": "Désigne souvent une ligne à haute tension",
+                    "is_true": false
+                },
+                {
+                    "text": "Empêche les espèces de circuler",
+                    "is_true": false
+                },
+                {
+                    "text": "Est toujours d'origine naturelle",
+                    "is_true": false
+                },
+                {
+                    "text": "Est toujours d'origine humaine",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "La fragmentation écologique",
+            "answers": [
+                {
+                    "text": "Peut provenir d'une route",
+                    "is_true": true
+                },
+                {
+                    "text": "Peut provenir d'une ligne à haute tenstion",
+                    "is_true": true
+                },
+                {
+                    "text": "Peut être d'origine naturelle ou humaine",
+                    "is_true": true
+                },
+                {
+                    "text": "Peut provenir d'un obstacle naturel (montagne, rivière, etc...)",
+                    "is_true": true
+                },
+                {
+                    "text": "Est une cause de regression de la biodiversité",
+                    "is_true": true
+                },
+                {
+                    "text": "Est toujours d'origine humaine",
+                    "is_true": false
+                },
+                {
+                    "text": "Est toujours d'origine naturelle",
+                    "is_true": false
+                },
+                {
+                    "text": "Permet la circulation des espèces entre 2 habitats vitaux",
+                    "is_true": false
+                },
+                {
+                    "text": "Est souvent utile pour la survie d'une espèce",
+                    "is_true": false
+                },
+                {
+                    "text": "Favorise toujours la biodiversité",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "Le domaine vital",
+            "answers": [
+                {
+                    "text": "Est l'aire vitale suffisante d'un animal.",
+                    "is_true": true
+                },
+                {
+                    "text": "Se définit pour un individu ou une population donné",
+                    "is_true": true
+                },
+                {
+                    "text": "Se définit toujours pour une ou plusieurs espèces données",
+                    "is_true": false
+                },
+                {
+                    "text": "Est toujours plus grand qu'une aire de répartition",
+                    "is_true": false
+                },
+                {
+                    "text": "Est toujours une aire disjointe",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Biodiversité et écosystème"
+            ],
+            "question": "Le climax",
+            "answers": [
+                {
+                    "text": "Est un état théorique final et stable",
+                    "is_true": true
+                },
+                {
+                    "text": "Est un système en constante évolution",
+                    "is_true": false
+                },
+                {
+                    "text": "Désigne un micro-climat local",
+                    "is_true": false
+                },
+                {
+                    "text": "Est l'état actuel de tout les écosystèmes",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_Biodiversit%C3%A9_et_%C3%A9cosyst%C3%A8me",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Quelle est la convention européenne qui a favorisé le retour des grands prédateurs en France ?",
+            "answers": [
+                {
+                    "text": "La convention de Berne (de 1979)",
+                    "is_true": true
+                },
+                {
+                    "text": "La convention de Bonn (de 1952)",
+                    "is_true": false
+                },
+                {
+                    "text": "La convention de Paris (de 1992)",
+                    "is_true": false
+                },
+                {
+                    "text": "La convention de Rome (de 1980)",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Quel est le nom du plan qui encadre la gestion du loup en France ?",
+            "answers": [
+                {
+                    "text": "Le Plan National d’Actions",
+                    "is_true": true
+                },
+                {
+                    "text": "Le Plan National Loup",
+                    "is_true": false
+                },
+                {
+                    "text": "Le Plan National de Prévention",
+                    "is_true": false
+                },
+                {
+                    "text": "Le Plan National de Protection",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Quelle est la période générale d’ouverture de la chasse en France ?",
+            "answers": [
+                {
+                    "text": "De septembre à février",
+                    "is_true": true
+                },
+                {
+                    "text": "D'octobre à mars",
+                    "is_true": false
+                },
+                {
+                    "text": "D'aout à février",
+                    "is_true": false
+                },
+                {
+                    "text": "De septembre à avril",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Le permis de chasse : ",
+            "answers": [
+                {
+                    "text": "Peut être passé à partir de 16 ans révolu",
+                    "is_true": true
+                },
+                {
+                    "text": "Est obligatoire pour chasser sur un territoire",
+                    "is_true": true
+                },
+                {
+                    "text": "Doit petre couplé à une assurance pour pouvoir chasser",
+                    "is_true": true
+                },
+                {
+                    "text": "N'est pas obligatoire pour chasser à l'arc",
+                    "is_true": false
+                },
+                {
+                    "text": "Ne peut pas être passer avant 18 ans révolu",
+                    "is_true": false
+                },
+                {
+                    "text": "Donne automatiquement droit à chasser le chamois",
+                    "is_true": false
+                },
+                {
+                    "text": "Permet de chasser toutes les espèces de montagne",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Qu’est-ce qu’une ACCA ?",
+            "answers": [
+                {
+                    "text": "Une Association Communale de Chasse Agréée",
+                    "is_true": true
+                },
+                {
+                    "text": "Une Association Communautaire de Chasse Autorisée",
+                    "is_true": false
+                },
+                {
+                    "text": "Une Association Cantonale de Chasse Agricole",
+                    "is_true": false
+                },
+                {
+                    "text": "Une Association Coopérative de Chasse Amicale",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Qu’est-ce qu’une espèce protégée ?",
+            "answers": [
+                {
+                    "text": "",
+                    "is_true": true
+                },
+                {
+                    "text": "Une espèce dont la chasse est interdite par la loi ou par arrêté préfectoral",
+                    "is_true": false
+                },
+                {
+                    "text": "Une espèce dont la conservation est assurée par des mesures réglementaires ou contractuelles",
+                    "is_true": false
+                },
+                {
+                    "text": "",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Quel est le nom du lynx présent en France ?",
+            "answers": [
+                {
+                    "text": "Le lynx boréal",
+                    "is_true": true
+                },
+                {
+                    "text": "Le lynx ibérique",
+                    "is_true": false
+                },
+                {
+                    "text": "Le lynx roux",
+                    "is_true": false
+                },
+                {
+                    "text": "Le lynx pardelle",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Quelle est la différence entre une ACCA et une AICA ?",
+            "answers": [
+                {
+                    "text": "Une ACCA est une association communale de chasse agréée, tandis qu’une AICA est une association intercommunale de chasse agréée",
+                    "is_true": true
+                },
+                {
+                    "text": "Une ACCA est une association communale de chasse autorisée, tandis qu’une AICA est une association intercommunale de chasse agricole",
+                    "is_true": false
+                },
+                {
+                    "text": "Une ACCA est une association communale de chasse agricole, tandis qu’une AICA est une association intercommunale de chasse autorisée",
+                    "is_true": false
+                },
+                {
+                    "text": "Une ACCA est une association communale de chasse amicale, tandis qu’une AICA est une association intercommunale de chasse agréée",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        },
+        {
+            "topics": [
+                "AMM/Écologie générale/Rôles et réglementations de la chasse et des grands prédateurs"
+            ],
+            "question": "Je suis une espèce protégée : ",
+            "answers": [
+                {
+                    "text": "Écureuil",
+                    "is_true": true
+                },
+                {
+                    "text": "Ours",
+                    "is_true": true
+                },
+                {
+                    "text": "Vautour",
+                    "is_true": true
+                },
+                {
+                    "text": "Loutre",
+                    "is_true": true
+                },
+                {
+                    "text": "Sanglier",
+                    "is_true": false
+                },
+                {
+                    "text": "Chamois",
+                    "is_true": false
+                },
+                {
+                    "text": "Cerf",
+                    "is_true": false
+                }
+            ],
+            "description": "https://wiki-amm.renauddha.ovh/wiki/Probatoire_AMM_:_R%C3%B4les_et_r%C3%A9glementations_de_la_chasse_et_des_grands_pr%C3%A9dateurs",
+            "image_path": null
+        }
+    ]
+}
