@@ -1,0 +1,30 @@
+resources/
+notebooks/
+**/db.sqlite3
+.idea/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+*.egg-info/
+*.egg
+
+.venv
+*.env
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+
+
