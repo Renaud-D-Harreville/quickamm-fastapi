@@ -22,7 +22,7 @@ class FlowersMCQFactory(AbstractMCQFactory):
 
     def get_image_path(self, surrounding_mcq_object: Flower) -> Path | str | None:
         flower_picture_name = random.choice(surrounding_mcq_object.images_name)
-        flower_picture_path = f"qcm/flora/{flower_picture_name}"
+        flower_picture_path = f"images/flora/flowers/{flower_picture_name}"
         return flower_picture_path
 
     @staticmethod

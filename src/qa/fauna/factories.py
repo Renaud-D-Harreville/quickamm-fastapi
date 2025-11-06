@@ -23,7 +23,7 @@ class AnimalsMCQFactory(AbstractMCQFactory):
 
     def get_image_path(self, surrounding_mcq_object: Animal) -> Path | str | None:
         animal_picture_name = random.choice(surrounding_mcq_object.images_name)
-        animal_picture_path = f"qcm/fauna/{animal_picture_name}"
+        animal_picture_path = f"images/fauna/pictures/{animal_picture_name}"
         return animal_picture_path
 
     def _to_mcq_answer(self, animal: Animal, is_true: bool) -> MCQAnswer:
