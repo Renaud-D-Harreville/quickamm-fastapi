@@ -11,6 +11,7 @@ def get_species() -> AllSpecies:
         json_data = json.loads(f.read())
     return AllSpecies(**json_data)
 
+
 class TestAllSpeciesMCQFactory:
 
     def test_factory(self):

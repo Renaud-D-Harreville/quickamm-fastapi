@@ -13,7 +13,7 @@ def get_themes() -> Themes:
 class TestThemes:
     def test_create(self):
         themes = get_themes()
-        path = ["Probatoire AMM", "Milieu montagnard"]
+        path = ["Probatoire AMM", "Le milieu montagnard"]
         sub_theme = themes.get_theme_from_path(path)
-        assert sub_theme.name == "Milieu montagnard"
-        assert sub_theme._id_path == path
+        assert sub_theme.name == "Le milieu montagnard"
+        assert sub_theme.id_path == path

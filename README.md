@@ -1,2 +1,1 @@
 # quickamm-fastapi
-# quickamm-fastapi

@@ -2,7 +2,7 @@ from qa.steps.gelures import GeluresSteps
 from qa import resource_dir_path
 import json
 
-fauna_json_path = resource_dir_path / "data-annotation" / "cold.json"
+fauna_json_path = resource_dir_path / "cold.json"
 
 
 def get_gelures_steps() -> GeluresSteps:

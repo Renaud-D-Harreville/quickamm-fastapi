@@ -1,0 +1,9 @@
+services:
+  web:
+    # Build the Dockerfile in the current directory (.)
+    build: .
+    # Give it a nice name
+    image: quickamm-fastapi
+    # Map port 8000 on your machine to 8000 in the container
+    ports:
+      - "8000:8000"

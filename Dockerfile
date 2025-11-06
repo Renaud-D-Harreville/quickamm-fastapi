@@ -1,4 +1,4 @@
-FROM python:3.12
+FROM python:3.14
 
 # Allows docker to cache installed dependencies between builds
 COPY requirements.txt requirements.txt
@@ -9,12 +9,8 @@ COPY . code
 WORKDIR /code
 RUN pip3 install -e .
 
-RUN python manage.py migrate
-
-RUN python manage.py collectstatic --noinput
-
-EXPOSE 80
+EXPOSE 8000
 
 # runs the production server
-ENTRYPOINT ["python", "manage.py"]
-CMD ["runserver", "0.0.0.0:80"]
+ENTRYPOINT ["python", "-m", "uvicorn"]
+CMD ["webapi.main:app", "--reload"]
