@@ -18,8 +18,8 @@ class AllQuestionsFactory:
 
     def __fulfill_questions_factories(self):
         self.questions_factories.append(MCQDBMCQFactory(get_questions_db()))
-        # self.questions_factories.append(ToponymyToWordMCQFactory(get_toponymy()))
-        # self.questions_factories.append(WordToToponymyMCQFactory(get_toponymy()))
+        self.questions_factories.append(ToponymyToWordMCQFactory(get_toponymy()))
+        self.questions_factories.append(WordToToponymyMCQFactory(get_toponymy()))
         self.questions_factories.append(AnimalsMCQFactory(get_animals()))
         self.questions_factories.append(FlowersMCQFactory(get_flowers()))
 
