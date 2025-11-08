@@ -2,7 +2,7 @@
 
 Quickamm is a smart Multiple Choice Question (MCQ) platform designed to help candidates prepare for the French "Accompagnateur en montagne" (AEM) hiking guide diploma.
 
-here is the deployed app running using Google Cloud Platform (GCP): **[Quick AMM website](https://quickamm-frontend-615761139088.europe-west1.run.app/)**
+here is the deployed app running using Google Cloud Platform (GCP): **[Quick AMM website](https://quickamm.valier.ovh/)**
 
 ---
 
