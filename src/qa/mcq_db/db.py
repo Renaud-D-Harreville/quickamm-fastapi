@@ -1,11 +1,11 @@
 import json
-from qa import resource_dir_path
+from qa import resources_dir_path
 from qa.mcq_db.models import MCQModelsDB
 import os
 
 # questions_json_path = resource_dir_path / "data-annotation" / "data-annotation.json"
-questions_json_path = resource_dir_path / "mcq_explanation.json"
-mcq_models_directory_path = resource_dir_path / "mcq_models"
+questions_json_path = resources_dir_path / "mcq_explanation.json"
+mcq_models_directory_path = resources_dir_path / "mcq_models"
 
 
 class _SingletonMeta(type):

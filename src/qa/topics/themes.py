@@ -1,5 +1,5 @@
 import abc
-from qa import resource_dir_path
+from qa import resources_dir_path
 from pydantic import BaseModel
 import json
 from typing import Any
@@ -49,7 +49,7 @@ class Themes(BaseModel):
         return current_theme
 
 
-fauna_json_path = resource_dir_path / "themes.json"
+fauna_json_path = resources_dir_path / "themes.json"
 
 
 def get_themes() -> Themes:

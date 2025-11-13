@@ -1,8 +1,8 @@
 from qa.fauna.models import Animals
-from qa import resource_dir_path
+from qa import resources_dir_path
 import json
 
-fauna_json_path = resource_dir_path / "fauna/fauna.json"
+fauna_json_path = resources_dir_path / "fauna/fauna.json"
 
 
 def get_animals() -> Animals:

@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from qa.mcq_db.models import MCQData
 from qa.api.api import get_random_question_from_topics
 from fastapi.middleware.cors import CORSMiddleware  # 1. Import this
-from qa import resource_dir_path
+from qa import resources_dir_path
 from fastapi.staticfiles import StaticFiles
 app = FastAPI()
 
@@ -25,7 +25,7 @@ app.add_middleware(
 )
 
 
-app.mount("/images", StaticFiles(directory=resource_dir_path), name="images")
+app.mount("/images", StaticFiles(directory=resources_dir_path), name="images")
 
 @app.get("/random_question")
 def get_random_question() -> MCQData:

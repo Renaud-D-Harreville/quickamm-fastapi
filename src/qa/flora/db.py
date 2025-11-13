@@ -1,9 +1,9 @@
 from qa.flora.models import Flowers
-from qa import resource_dir_path
+from qa import resources_dir_path
 import json
 
 
-flowers_json_path = resource_dir_path / "flora/flowers.json"
+flowers_json_path = resources_dir_path / "flora/flowers.json"
 
 
 

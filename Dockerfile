@@ -11,8 +11,6 @@ VOLUME /code/src/resources
 
 EXPOSE 80
 
-
-
 # runs the production server
 ENTRYPOINT ["uvicorn", "webapi.main:app"]
 CMD ["--host", "0.0.0.0", "--port", "80"]

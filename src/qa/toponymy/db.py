@@ -1,8 +1,8 @@
 from qa.toponymy.models import ToponymyList
-from qa import resource_dir_path
+from qa import resources_dir_path
 import json
 
-toponymy_json_path = resource_dir_path / "toponymy/toponymy.json"
+toponymy_json_path = resources_dir_path / "toponymy/toponymy.json"
 
 
 def get_toponymy() -> ToponymyList:

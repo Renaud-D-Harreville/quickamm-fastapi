@@ -1,8 +1,8 @@
 from qa.topics.themes import Theme, Themes
-from qa import resource_dir_path
+from qa import resources_dir_path
 import json
 
-fauna_json_path = resource_dir_path / "themes.json"
+fauna_json_path = resources_dir_path / "themes.json"
 
 
 def get_themes() -> Themes:
