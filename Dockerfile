@@ -5,7 +5,13 @@ COPY . code
 WORKDIR /code
 RUN pip3 install .
 
+RUN mkdir -p /code/src/resources
+# The container would require a volume on that path.
+VOLUME /code/src/resources
+
 EXPOSE 80
+
+
 
 # runs the production server
 ENTRYPOINT ["uvicorn", "webapi.main:app"]
