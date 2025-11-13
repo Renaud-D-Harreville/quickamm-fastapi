@@ -12,11 +12,8 @@ description = "API to deliver questions for quickamm project"
 readme = "README.md"
 classifiers = []
 
-# --- THIS IS THE FIX ---
-# 1. We removed 'dynamic = ["dependencies"]'
-# 2. We add dependencies directly here:
+
 dependencies = [
-    # Copy your requirements from requirements.txt, for example:
     "fastapi",
     "uvicorn[standard]",
     "numpy"
