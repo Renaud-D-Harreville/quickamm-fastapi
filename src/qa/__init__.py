@@ -3,6 +3,6 @@
 
 from pathlib import Path
 
-resources_dir_path = Path(__file__).parent.parent / "resources"
+resources_dir_path = Path("/code/src/resources")  # Path(__file__).parent.parent / "resources"
 
 print("resources_dir_path : ", resources_dir_path, flush=True)
